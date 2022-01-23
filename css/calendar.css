@@ -1,0 +1,275 @@
+.calcell {width:104px;height:136px;overflow:hidden}
+.eventlist {margin:3px;padding:0}
+.eventlist li {list-style-type:none;vertical-align:top;padding:4px 0 0 26px;border:1px solid #aaaaaa;margin-bottom:2px;}
+.eventlist li.over {cursor:pointer}
+
+/** styles for the event types */
+
+.music {background:#884422 url(../graphics/music_icon.png) no-repeat 3px 3px;color:#fff}
+.fall {background:#ee9943 url(../graphics/fall_icon.png) no-repeat 3px 3px;}
+.summer {background:#ffee5f url(../graphics/summer_icon.png) no-repeat 3px 3px;color:#000;border:1px solid #cccccc;}
+.winter {background:#ffffff url(../graphics/winter_icon.png) no-repeat 3px 3px;border:1px solid #cccccc;}
+.spring {background:#44bb22 url(../graphics/spring_icon.png) no-repeat 3px 3px;}
+.food {background:#aa3355 url(../graphics/food_icon.png) no-repeat 3px 3px;}
+.art {background:#88bbff url(../graphics/art_icon.png) no-repeat 3px 3px;}
+.sports_outdoors {background:#025e15 url(../graphics/outdoor_icon.png) no-repeat 3px 3px;color:#fff}
+.heritage{background:#331177 url(../graphics/heritage_icon.png) no-repeat 3px 3px;color:#fff}
+.civic {background:#335599 url(../graphics/civic_icon.png) no-repeat 3px 3px;color:#fff}
+.holiday {background:#df1a11 url(../graphics/holidays.png) no-repeat 3px 3px;color:#fff}
+
+.eventtypeicon {width:23px;height:23px;margin: 0 2px 2px 0;cursor:pointer;}
+span.eventcount {font: 26px Verdana;text-align:center;display:block;margin: -4px 0 0}
+span.eventtext {font: 14px Verdana;text-align:center;display:block;margin: -18px 0 12px}
+
+.eventcalendar td {background:#ddddc8;border:1px solid #888}
+.eventcalendar td.calendarMaskMonth {background:#cccccc}
+.eventcalendar thead td {font: bold 14px Arial,Verdana,Tahoma,sans-serif;padding:4px 10px}
+.eventcalendar {font-size:10px}
+.calheader td {width:98px;background:none;border:none;font:bold 14px Verdana,Arial,Tahoma,sans-serif;padding-right:4px;border:#999 1px; border-style: solid none solid;text-align:center;background:#eeeed8;padding: 4px;}
+.calheader tr {}
+.calheader {margin-bottom:6px}
+
+a.prevnextbutton img {border:none;top:4px;position:relative;width:17px;height:30px;}
+
+#calendargrid {margin-left:11px}
+.monthdropdown {position:absolute;left:660px;bottom:0;}
+.noevents {text-align:center;font: bold 16px Arial,Helvetica,sans-serif;}
+.eventdaterange {font-size:85%;font-style:italic;float:right}
+
+#eventtypepagelist {width:756px;margin:20px 12px;}
+#eventtypepagelist div.eventtypelink {width:252px;float:left;margin-bottom:4px;}
+.eventtypelink a {font:bold 14px Arial, Helvetica,Verdana,sans-serif}
+div.tlborder {border-top:1px solid #999;margin-top:40px}
+
+#other_stories {
+    clear:both;
+    margin-top:20px;
+    margin-bottom:40px;
+    padding:10px 10px;
+    border-top:1px solid #003399;
+    position:relative;
+    top:28px;
+    width:950px;
+}
+
+#other_stories h2 {
+    font-size:20px;
+    color:#003399;
+}
+
+#other_stories div.event_story {
+    float:left;
+    width:25%;
+    margin-right:25px;
+}
+
+div.event_story h3 {
+    margin-bottom:6px;
+}
+
+div.event_story h3 a {
+   color:#003399;
+   font-size:16px;
+   text-decoration:none;
+}
+
+div.event_story h4 {
+    color:#000;
+    margin-top:0;
+    margink-bottom:9px;
+
+}
+
+
+.filters h4 {margin:0 0 8px;font-size:15px;border:1px #000000;border-style:solid none solid;padding:6px 0;text-align:center;}
+
+a.eventlink:hover {color:#ffffff}
+a.eventlink {color:#777777;}
+
+.eventlist li ul {vertical-align:top;width:77px;overflow:hidden;margin:0 0 4px;padding:0;display:inline-block}
+li.ievent {list-style-type:none;list-style-image:none;border:none;padding:0;margin:0 0 2px;color:#fff}
+.summer .ievent a {color:#000}
+.ievent a {color:#fff}
+.eventcalendar td.today {background:#bbbba8}
+.datetitle {font:bold 29px Arial,Verdana,Tahoma,sans-serif;padding:0 10px}
+#tabletitle {
+    margin:30px auto 12px;
+    padding-left:13px;
+    position:relative;
+    margin-left:20px;
+}
+
+.day {;text-align:right;font:bold 14px Georgia;padding:4px;margin-bottom:6px;background:#5e7fac;color:#fff}
+#columnMain {margin:0}
+a.othermonth {font-size:13px}
+
+.legend {width:830px;margin:15px 0}
+.legend ul {margin:0;padding:0;line-height:3}
+.legend li {
+    list-style-type: none;
+    vertical-align: top;
+    padding: 4px 4px 8px 26px;
+    border: 1px solid #aaa;
+    margin: 0 8px 4px;
+    display: inline;
+    width: 130px;
+}
+
+/** styles for the event detail page */
+
+#othereventsthismonth {width:150px;float:left;border-right:1px solid #999;margin-right:25px}
+#othereventsthismonth ul {margin:0;padding:0}
+#othereventsthismonth li {list-style-type:none;padding:0;margin:0 0 14px;font-size:12px}
+#othereventsthismonth .eventdates {color:#999;font-size:10px;font-style:oblique}
+
+#columnMain {margin:0}
+#eventfilter {margin:0;padding:0}
+#eventfilter li {list-style-type:none;padding-left:25px;display:block;height:25px;margin-bottom:3px}
+
+/** List styles */
+
+#eventlist {margin-top:40px;margin-left:180px}
+#eventlist .dates {margin:0px 15px 0px -110px;text-align:right;width:100px;float:left;}
+#eventlist .dates span {font-size: 35px;font-weight:900;letter-spacing:-3px}
+#eventlist .dates span div {float:right;padding:0 4px 4px 0}
+#eventlist .dates span div.dayname {float:none}
+
+h2.eventtitle {border-bottom:1px solid #999;font-size:16px;font-weight:bold;width:500px;margin-bottom:0}
+.eventlistentry {vertical-align:top;margin-bottom:30px;margin-left:5px;width:500px;}
+.eventdescriptionlist {width:500px}
+#eventlist div.dayname {font-size:11px;letter-spacing:0;margin-bottom:4px}
+
+#filterform {width:160px}
+
+/* Styles for the day event list page */
+
+h2.daylistheadline {font-size:20px;margin-bottom:24px;margin-left:170px;}
+ul.daylist {margin-left:35px;float:left;}
+ul.daylist li.dayevententry {list-style:none;}
+li.dayevententry h2.eventtitle {margin-top:10px;}
+ul.daylist div.description {width:500px;}
+ul.links {list-style-type: none}
+div.dayeventiconbar {width:99px;float:left;margin-top:14px;}
+div.dayeventiconbar div.eventtypeicon {float:right}
+div.dayeventdata {margin-left:12px;float:left;margin-bottom:17px;}
+div.dayeventdata div.description {margin-top:6px;}
+li.dayevententry div.dayeventdata h2.hnoborder {border:none;margin-bottom:-2px}
+h2.headlineunderline {border-bottom:1px solid #000;width:500px;margin-left:103px !important;padding-left:80px}
+
+#eventcontent {
+    margin-top:6px;
+    border-top:1px solid #000;
+    width: 100%;
+    /*width:980px;*/
+}
+
+.event-msg {
+    text-align: center;
+    font-size: 1.5em;
+    padding: 0.7em 0;
+    border-bottom: 1px solid #000;
+    background-color: #ffbc1f;
+}
+
+.event-msg p {
+    margin: 0;
+}
+
+
+#calendarswitch {padding:3px 8px 6px;background:#5e7fac;color#fff;font:15px bold Verdana,Arial,Helvetica,sans-serif;display:inline;vertical-align:top;margin:0 -4px;position:relative;top:3px}
+#calendarswitch .viewswitch {color:#fff;vertical-align:top;}
+#switchcontainer {float:right;margin-right:100px;width:400px;}
+#switchcontainer img {margin:0 -6px;padding:0;}
+
+.eventpageheadline {
+    font-size:26px;
+    margin-top:45px;
+    margin-left:133px !important;
+    padding-left:50px
+}
+
+#tabletitle .eventpageheadline {margin:0 !important;padding:10px 0 18px;}
+
+/* City search */
+
+#city-search-widget {
+    border:1px solid #999;
+    background-color: #eeeed8;
+    padding:4px;
+    width:180px;
+}
+
+#city-search-widget h2 {
+    font-size:13px;
+}
+
+#city-search-widget {
+    position:relative;
+}
+
+
+#citysearch {
+    width:100px;
+}
+
+#autocomplete {
+    list-style:none;
+    position:absolute;
+    top:41px;
+    left:5px;
+    border:1px solid #000;
+    background:#fff;
+    width:180px;
+    padding:0;
+    z-index: 6;
+}
+
+#autocomplete li {
+    text-align:left;
+    padding:2px 5px;
+
+}
+
+/** Event type buttons */
+
+.story_links {
+    margin-top:15px;
+}
+
+.story_links h4 {
+    font-size:13px;
+}
+
+.story_links ul {
+    list-style-type:none;
+    padding:0;
+    margin:0;
+}
+
+.story_links a {
+    display:block;
+    background-image: url("../graphics/Button_Sprite.jpg");
+    width:180px;
+    height:76px;
+    overflow:hidden;
+    text-indent:-9000px;
+}
+
+.story_links li {
+    padding:0;
+    margin: 0 0 5px;
+}
+
+.food_festivals {background-position: -200px 0;}
+.art_fairs {background-position: 0px -80px;}
+.ethnic_festivals {background-position: -200px -80px;}
+.civil_war_battles {background-position: 0 0;}
+.weekend_bike_tours {background-position: -200px -240px;}
+.outdoor_music_festivals {background-position: -200px -160px;}
+.powwows {background-position: 0 -240px;}
+.summer_theater {background-position: 0 -160px;}
+.oktoberfests {background-position: -200px -320px;}
+.fall_art_tours {background-position: 0 -320px;}
+.ghost_tours {background-position: 0 -400px;}
+.holiday_houses {background-position: -200px -400px;}
+

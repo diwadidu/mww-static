@@ -1,0 +1,1970 @@
+@media print {
+    body {
+        font-size: 8pt
+    }
+
+    #header {
+        display: none
+    }
+
+    #footer {
+        display: none
+    }
+
+    #menu {
+        display: none
+    }
+
+    form {
+        display: none
+    }
+
+    #everything {
+        display: inline
+    }
+
+    #related {
+        display: none
+    }
+
+    #breadcrumbs {
+        display: none
+    }
+
+    #story {
+        border: none;
+        margin: 0
+    }
+
+    #printheader {
+        border-bottom: 6px double #000;
+        background: url(https://midwestweekends.com/printstory.gif) no-repeat
+    }
+
+    #printheader span {
+        font-size: 28px
+    }
+
+    #emailsignup {
+        display: none
+    }
+}
+
+@media screen {
+
+    #mobile-header {
+        display: none;
+    }
+
+    body {
+        padding: 0;
+        background: #536526 url(/graphics/body_background.jpg) 0 0 fixed repeat-x;
+        font: 15px/21px Verdana, Helvetica, Arial, 'sans-serif';
+        margin: 0 auto;
+    }
+
+    h1 {
+        font: bold 21px Arial, Helvetica, Verdana, Tahoma, sans-serif;
+        color: #003399;
+        margin: 0 0 0.2em 0;
+        padding: 3px 0;
+    }
+
+    h1 a {
+        color: #003399;
+        text-decoration: none
+    }
+
+    h1 a:hover {
+        color: #f00;
+        text-decoration: underline
+    }
+
+    h2 {
+        font: bold 16px Arial, Helvetica, Verdana, Tahoma, sans-serif;
+        color: #333;
+        margin: 0 0 0.8em
+    }
+
+    h2 a {
+        color: #000;
+        text-decoration: none
+    }
+
+    h2 a:hover {
+        color: #f00;
+        text-decoration: underline
+    }
+
+    h3 {
+        font: bold 14px Arial, Helvetica, Verdana, Tahoma,
+        sans-serif: #000
+    }
+
+    p {
+        margin: 0 0 0.6em
+    }
+
+    em {
+        font-weight: bold;
+        font-style: normal;
+    }
+
+    #printheader {
+        display: none
+    }
+
+    #wrapper {
+        width: 1000px;
+        background: url(/graphics/content_background.png) repeat-y;
+        margin: 0 auto;
+        padding: 0 17px;
+    }
+
+    .reskin-ad {
+        display: none;
+        height: 1200px;
+        width: 200px;
+        overflow: hidden;
+    }
+
+    #reskin-left {
+        position: fixed;
+        margin-left: -200px;
+        top: 0;
+        text-align: right;
+    }
+
+    #reskin-right {
+        position: fixed;
+        margin-left: 1000px;
+        top: 0;
+    }
+
+
+    #header {
+        height: 155px;
+        position: relative;
+        background: url(/graphics/midwestweekends_header.jpg) no-repeat;
+    }
+
+    ul#social_networks {
+        margin-bottom: 10px;
+        height: 32px;
+        position: absolute;
+        right: 20px;
+    }
+
+    ul#social_networks li {
+        float: left;
+        margin-left: 8px;
+        list-style: none;
+    }
+
+    ul#social_networks li a {
+        background: url(/graphics/icons.png) no-repeat;
+        width: 32px;
+        height: 32px;
+        display: block;
+        text-indent: -9000px;
+        overflow: hidden;
+    }
+
+    ul#social_networks .twitter a {
+        background-position: 0 0;
+    }
+
+    ul#social_networks .facebook a {
+        background-position: -80px 0;
+    }
+
+    ul#social_networks .email a {
+        background-position: -40px 0;
+    }
+
+    ul#social_networks .rss a {
+        background-position: -120px 0;
+    }
+
+    span.event_link_list {
+        margin-right: 8px
+    }
+
+    .search {
+        width: 30%;
+        position: absolute;
+        top: 0;
+        right: 16px
+    }
+
+    /*#search input {font-size:11px;border:1px solid #679}*/
+    #emailsignup {
+        border: 1px solid #000;
+        padding: 10px;
+        background: #fff;
+        margin: 0.5em 0;
+    }
+
+    #emailsignup h1 {
+        font-size: 14px;
+        color: #039;
+        margin: 0 0 0.2em 0;
+        padding: 3px 0;
+        text-align: center;
+    }
+
+    #story #emailsignup h1 {
+        font-size: 16px;
+        color: #039;
+        margin: 0 0 0.2em 0;
+        padding: 3px 0;
+    }
+
+    #categorylisting #emailsignup h1 {
+        font-size: 16px;
+        color: #039;
+        margin: 0 0 0.2em 0;
+        padding: 3px 0;
+    }
+
+    #emailsignup p {
+        color: #333;
+    }
+
+    #signupform input {
+        font-size: 11px;
+        border: 1px solid #679
+    }
+
+    #signupform input:focus {
+        background: #cdf
+    }
+
+    .topicMenu {
+        border: 2px solid #5e7fac;
+        margin: 0;
+        padding: 0 0.6em
+    }
+
+    .topicMenu ul {
+        list-style: none;
+        padding: 0;
+        line-height: 1.6
+    }
+
+    .topicMenu li a {
+        font-size: 14px;
+        font-weight: bold;
+        text-decoration: none
+    }
+
+    .topicMenu li a:hover {
+        font-size: 13px;
+        font-weight: bold;
+        text-decoration: underline;
+        color: #f00
+    }
+
+    #userloginbox, #profile {
+        border: 1px solid #aaa;
+        padding: 15px;
+        width: 30em;
+        margin: 0 auto;
+        background: #eec
+    }
+
+    #userloginbox label, #profile label {
+        width: 11em;
+        float: left;
+        clear: left;
+        text-align: right;
+    }
+
+    #userloginbox input, #profile input {
+        float: left;
+        font-size: 10px;
+        border: 1px solid #aaa;
+        margin: 0 0.5em 0.8em;
+    }
+
+    #profile {
+        width: 40em;
+    }
+
+    .formerrors {
+        margin: 0.9em auto;
+        background: #faa;
+        border: 1px solid #aaa;
+        width: 30em
+    }
+
+    label.required {
+        color: #f00
+    }
+
+    label.required:after {
+        content: "*"
+    }
+
+    .storyseparator {
+        margin-bottom: 0.1em;
+    }
+
+    #columnLeft {
+        width: 200px;
+        float: left;
+        padding: 8px
+    }
+
+    #columnLeft h4 {
+        background: #5e7fac;
+        padding: 5px;
+        color: #fff;
+        font-size: 15px;
+        margin: 0;
+        margin: 0.8em 0 0
+    }
+
+    #columnLeft h5 a {
+        font: bold 14px Arial, Helvetica, sans-serif;
+        text-decoration: none
+    }
+
+    #columnLeft h5 a:hover {
+        color: #f00;
+        text-decoration: underline
+    }
+
+    #columnLeft h5 {
+        margin: 1em 0 0.2em;
+    }
+
+    #columnLeft h6 {
+        margin: 0 0 1.5em;
+        font-size: 13px;
+        line-height: 1.4;
+        font-weight: normal
+    }
+
+    #columnLeft .subMenu li {
+        list-style: none;
+        font-size: 12px;
+        margin-bottom: 0.2em;
+        background: #ccc;
+        border-bottom: 2px solid #00f;
+        padding: 5px
+    }
+
+    #columnLeft .subMenu li a {
+        text-decoration: none;
+        font-weight: bold
+    }
+
+    #columnLeft .subMenu li a:hover {
+        color: #fff;
+        text-decoration: none;
+        font-weight: bold
+    }
+
+    #columnLeft .subMenu {
+        padding: 0
+    }
+
+    #columnMain {
+        padding: 12px;
+        margin: 0 155px 0 215px;
+        clear: none;
+    }
+
+    #columnMain .columnSub {
+        float: left;
+        width: 47%;
+        margin: 0 1.5%;
+    }
+
+    #columnMain .storythumb {
+        float: left;
+        margin-top: 0.4em;
+        width: 100%;
+        display: block;
+    }
+
+    #columnMain .storythumb img {
+        margin: 0 8px 8px 0;
+        width: 100%;
+    }
+
+    #columnRight {
+        width: 150px;
+        float: right;
+        padding: 12px;
+        clear: none
+    }
+
+    #archive_list h2 a {
+        color: #00f;
+        text-decoration: underline;
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    #archive_list h2 {
+        margin: 1.5em 0 0
+    }
+
+    #signup {
+        clear: both;
+        border: 1px solid #000;
+        padding: 10px;;
+        margin: 1.4em 50px
+    }
+
+    #everything {
+        position: relative;
+        top: 2em;
+        padding-bottom: 15px;
+        clear: both;
+        overflow: hidden;
+        font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif;
+    }
+
+    #everything .homepage {
+        top: -1.5em;
+        display: block;
+        position: relative;
+    }
+
+    #textcontent, #homepage {
+        margin-right: 160px;
+        padding: 0 0 20px 20px;
+    }
+
+    #homepage h2 {
+        margin: 0 0 0.3em;
+        font-size: 13px;
+        letter-spacing: 0.03em
+    }
+
+    .left {
+        float: left;
+        margin: 10px 10px 10px 0;
+    }
+
+    .right {
+        float: right;
+        margin: 10px 0 0 10px;
+    }
+
+    #col1 {
+        width: 48%;
+        float: left;
+        margin: 10px 1%
+    }
+
+    #col2 {;
+        margin: 10px 0 0 51%;
+        padding-left: 15px;
+        border-left: 1px #999 solid
+    }
+
+    #ads {
+        float: right;
+        width: 155px;
+        vertical-align: top;
+        margin: 4em 18px 0 2%;
+        text-align: right;
+    }
+
+    #menu {
+        background: #7292BB;
+        margin: 0;
+        vertical-align: middle;
+        padding: 8px 5px;
+        font-size: 100%;
+        width: 990px;
+        position: relative
+    }
+
+    #menu ul {
+        display: inline;
+        margin: 0;
+        padding: 0
+    }
+
+    #menu li {
+        display: inline;
+        color: #fff;
+    }
+
+    #menu li a {
+        padding: 5px 15px;
+        color: #fff;
+        text-decoration: none;
+        font-weight: bold
+    }
+
+    #menu li a:hover {
+        background: #D3E8F9;
+        padding: 5px 15px;
+        color: #000
+    }
+
+    #menu .selected {
+        font-weight: bold;
+        background: #000;
+        padding: 5px 15px
+    }
+
+    #forummain {
+        margin: 1em;
+        width: 90%;
+        font-size: 12px
+    }
+
+    #forummain tr {
+        border: 1px solid #000
+    }
+
+    #forummain thead {
+        margin-bottom: 4em
+    }
+
+    #forumhead td {
+        font-size: 13px;
+        border-bottom: 3px double #000;
+    }
+
+    .forumsectiontitle {
+        font-size: 14px
+    }
+
+    .forumsectiondescription {
+        font-size: 11px
+    }
+
+    .forumrow {
+    }
+
+    .pubarticlelist li {
+        list-style: none;
+        font: bold 12px/18px Arial, Verdana, Tahoma, sans-serif;
+    }
+
+    .numposts {
+        text-align: center;
+        width: 4em
+    }
+
+    .postheader {
+        color: #fff;
+        background: #004e5c;
+        vertical-align: middle;
+        height: 1.5em
+    }
+
+    .postheader h3 {
+        padding: 0;
+        margin: 0.3em 0.4em
+    }
+
+    #sidebarloginbox input {
+        font-size: 10px
+    }
+
+    #sidebarloginbox {
+        font-size: 9px
+    }
+
+    .userdetails {
+        font-size: 10px
+    }
+
+    .commentcontent {
+        vertical-align: top;
+        margin: 0.5em 0 0.5em 0.5em;
+        padding-bottom: 0.5em
+    }
+
+    #forumcontent {
+        margin-right: 20px;
+        padding: 0 0 20px 20px;
+    }
+
+    #forumcategory {
+        margin: 0 -5px 0 22%;
+        border-left: 1px solid #999;
+        padding: 0 1.5em;
+    }
+
+    #forumcategory h1 {
+        font: bold 27px Arial, Helvetica, Verdana, Tahoma, sans-serif;
+        color: #000;;
+        margin: 0 0 0.6em 0;
+        padding: 3px
+    }
+
+    #forumcategory h2 {
+        font: bold 17px Arial, Helvetica, Verdana, Tahoma, sans-serif;
+        color: #000;;
+        margin: 0 0 0.6em 0;
+        padding: 3px
+    }
+
+    td {
+        vertical-align: top
+    }
+
+    td.column {
+        font-size: 100%;
+        padding-top: 0;
+        margin: 0;
+        vertical-align: top
+    }
+
+    td.column ul {
+        padding-left: 1em;
+        margin: 0
+    }
+
+    td.column h2 {
+        font-size: 17px;
+        margin: 1.2em 0 0.4em;
+    }
+
+    td.column li {
+        list-style-type: square;
+        list-style-position: outside;
+        margin-left: 8px;
+        font-size: 13px;
+        line-height: 1.4
+    }
+
+    #toolbar {
+        border-bottom: 1px solid #000;
+        padding: 6px;
+        font-size: 10px
+    }
+
+    #toolbar input {
+        border: 1px solid #000;
+        margin: 0;
+        parring: 0
+    }
+
+    .container {
+        padding: 4px;
+        margin: 0 0 15px;
+    }
+
+    .advertisement {
+        color: #999;
+        font-size: 80%;
+        margin-bottom: 15px
+    }
+
+    .advertisement:before {
+        content: "Advertisement"
+    }
+
+    .advertisement {
+        overflow: hidden;
+    }
+
+    .advertisement a img {
+        border: none
+    }
+
+    #related {
+        width: 20%;
+        float: left;
+        margin-right: 1em;
+    }
+
+    #related h4 {
+        font: bold 16px Arial, Helvetica, Verdana, Tahoma, sans-serif
+    }
+
+    #related ul {
+        margin: 0;
+        padding: 0
+    }
+
+    #related li {
+        list-style: none;
+        padding: 0;
+        margin: 0 0 0.6em;
+        font-size: 11px;
+    }
+
+    #related .subtitle {
+        font-size: 90%;
+        color: #555
+    }
+
+    #story {
+        margin: 0 -5px 0 22%;
+        padding: 0 1.5em;
+        width: 625px;
+        border-left: 1px solid #cccccc;
+    }
+
+    #story h1 {
+        font: bold 30px Arial, Helvetica, Verdana, Tahoma, sans-serif;
+        color: #000;;
+        margin: 0;
+        padding: 3px
+    }
+
+    #story h2 {
+        font: bold 19px Arial, Helvetica, Verdana, Tahoma, sans-serif;
+        color: #000;;
+        margin: 0 0 1.3em;
+        padding: 3px
+    }
+
+
+    #story ol,
+    #story ul {
+
+    }
+
+    #story li {
+        list-style-position: outside;
+
+    }
+
+    #footer {
+        margin-top: 10px;
+        border-top: 1px solid #000;
+        padding: 5px;
+        text-align: center;
+        background: #ffffff;
+        width: 990px;
+    }
+
+    #storylisting {
+        margin: 0 0 0 19%;
+        border-left: 1px solid #999;
+        padding: 0 1.5em;
+        border-right: 1px solid #999
+    }
+
+    #storylisting h1 {
+        font-size: 32px;
+        text-align: center;
+        margin: 0 0 0
+    }
+
+    #storylisting h2 {
+        font-size: 19px;
+        margin: 1em 0 0.4em
+    }
+
+    #storylisting h3 {
+        font-size: 14px;
+        font-weight: bold;
+        margin: 0 0 0.6em
+    }
+
+    #storylisting h2 a:hover {
+        color: #f00;
+        text-decoration: underline
+    }
+
+    #breadcrumbs {
+        margin: 10px 1.5em 1em;
+    }
+
+    #pagecontent {
+        margin: 1em 2em
+    }
+
+    #col_left {
+        margin: 0 0 2em 7em;
+        width: 50%;
+        float: left;
+    }
+
+    #col_right {
+        margin: 2em 0 0 65%;
+    }
+
+    #col_right img {
+        margin-top: 2.5em;
+    }
+
+    #onecol_wide #textcontent {
+        margin-right: 20px;
+    }
+
+    #onecol_wide #textcontent table {
+        width: 100%;
+    }
+
+    #onecol_wide #textcontent td {
+        width: 33%;
+        margin: 0 5px;
+    }
+
+
+    .cntr_no_wrap {
+        margin: 0 auto
+    }
+
+    #categorylisting {
+        margin: 0 0 0 20%;
+        border-left: 1px solid #999;
+        padding: 0 1.5em;
+        border-right: 1px solid #999;
+    }
+
+    #categorylisting h1 {
+        font-size: 32px;
+        text-align: center;
+        margin: 2em 0 0.8em;
+    }
+
+    #categorylisting h2 {
+        font-size: 19px;
+        margin: 0.6em 0 0.4em;
+    }
+
+    #categorylisting h2 a {
+        font-size: 19px;
+        margin: 0.6em 0 0.4em;
+        color: #039
+    }
+
+    #categorylisting h3 {
+        font-size: 14px;
+        font-weight: bold;
+        margin: 0 0 0.6em
+    }
+
+    #categorylisting h2 a:hover {
+        color: #f00;
+        text-decoration: underline
+    }
+
+    .applet {
+        border: 1px solid #5e7fac;
+        margin-bottom: 1.8em;
+        width: 274px
+    }
+
+    .applet ul {
+        list-style: none;
+        padding: 0 0.8em;
+        margin: 0
+    }
+
+    .applet li {
+        padding: 0;
+        margin: 0
+    }
+
+    .applet h3 {
+        margin-top: 0;
+        padding: 0.4em 0.8em;
+        background: #5e7fac;
+        color: #fff;
+        font-size: 14px
+    }
+
+    .applet .title {
+        font-size: 12px;
+        font-weight: bold
+    }
+
+    .applet .smallink {
+        font-size: 90%;
+    }
+
+    #fastplanlist {
+        margin: 0 200px 2em 20%;
+        padding-left: 2em;
+        border-left: 1px solid #999
+    }
+
+    #fp_inlinelist {
+        display: inline
+    }
+
+    #fp_inlinelist li {
+        display: inline;
+        list-style-type: circle
+    }
+
+    #fp_inlinelist li:after {
+        content: ', '
+    }
+
+    #resultsummary {
+        border: 1px solid #000;
+        padding: 6px;
+        margin: 2em 7em 1em;
+        text-align: center
+    }
+
+    #summaryline {
+        display: block;
+        font-size: 10px;
+        margin: 0
+    }
+
+    #pagelist li {
+        list-style: none;
+        display: inline
+    }
+
+    .resultlink:hover {
+        padding: 4px;
+        border: 1px solid #ddb;
+        background: #f2f2d2;
+        margin: 0
+    }
+
+    .resultlink {
+        padding: 4px;
+        margin: 1px;
+        text-decoration: none
+    }
+
+    .updated {
+        font-size: 90%;
+        font-style: oblique
+    }
+
+    .story-dateline {
+        color: #808080;
+        font-style: oblique;
+        font-size: 80%;
+        top: -1.3em;
+        position: relative;
+        padding: 0 3px;
+    }
+
+    .storyarea1 {
+        padding: 10px;
+        border: 1px solid #000;
+        margin: 0 0 0.8em 0.8em;
+        width: 200px;
+        float: right;
+    }
+
+    /****************************************************************
+        styles for ad zones
+     ****************************************************************/
+    div.adcolumn {
+        position: absolute;
+        top: 40px;
+        left: 870px;
+        padding-right: 10px;
+        width: 130px
+    }
+
+    div.adcolumn a {
+        color: #333;
+        text-decoration: none
+    }
+
+    #intext, #intext-2, #intext-3 {
+        float: left;
+        margin-right: 8px;
+        margin-bottom: 8px
+    }
+
+    #intext a, #intext-2 a, #intext-3 {
+        margin-right: 8px;
+        margin-bottom: 8px;
+        border: none
+    }
+
+    #leaderboard {
+        text-align: center
+    }
+
+    #rtinterstitial {
+        margin-bottom: 10px
+    }
+
+    #leftinterstitialhome {
+        width: 200px;
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    #skyscraperhome {
+        margin: 100px 0 200px
+    }
+
+    /****************************************************************
+        styles for maps
+     ****************************************************************/
+    #map {
+        background: url(/graphics/mww_home_background_map.jpg) no-repeat;
+    }
+
+
+    #iconsmap img {
+        width: 100%
+    }
+
+    #iconsmap {
+        width: 100%;
+        height: 209px;
+        position: relative;
+        left: -10px;
+        top: -5px;
+        overflow: hidden
+    }
+
+    #iconsmap li a {;
+        position: absolute;
+        display: block;
+    }
+
+    #iconsmap ul {
+        list-style: none;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        margin: 0
+    }
+
+    #iconsmap a span {
+        visibility: hidden;
+        padding: 0;
+    }
+
+    #iconsmap a {
+        padding: 0;
+        margin: 0;
+        text-decoration: none
+    }
+
+    #iconsmap img {
+        position: absolute;
+        top: 0px;
+        left: -8px
+    }
+
+    #regionicons {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    #regionicons li {
+        position: absolute;
+        list-style: none
+    }
+
+    #regionicons a {
+        display: block;
+        position: absolute;
+        padding: 0;
+        margin: 0;
+        color: #000;
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 9px;
+        line-height: 1.2;
+        text-align: center;
+        letter-spacing: -0.06em;
+        text-decoration: none;
+    }
+
+    #regionicons a:hover {
+        color: #00f;
+    }
+
+    #mapbg {
+        position: relative;
+        width: 500px;
+        height: 375px;
+        overflow: hidden;
+        padding: 3px;
+        border: 2px solid #6d8594;
+        margin: 15px 20px 10px 0;
+        font-size: 9px;
+        float: right
+    }
+
+    #mapbg img {
+        padding: 0;
+        margin: 0;
+    }
+
+    #canoe {
+        left: 138px;
+        top: 39px;
+    }
+
+    #michigan_beaches {
+        left: 403px;
+        top: 284px;
+    }
+
+    #ironrange {
+        left: 150px;
+        top: 68px;
+    }
+
+    #itasca {
+        left: 48px;
+        top: 79px;
+    }
+
+    #nshore {
+        left: 198px;
+        top: 67px;
+    }
+
+    #apostles {
+        left: 224px;
+        top: 98px;
+    }
+
+    #keweenaw {
+        left: 300px;
+        top: 96px;
+    }
+
+    #potholes {
+        left: 45px;
+        top: 118px;
+    }
+
+    #brainerd {
+        left: 95px;
+        top: 101px;
+    }
+
+    a#duluth {
+        left: 161px;
+        top: 105px;
+        color: #b9c6df;
+    }
+
+    #mnriver {
+        left: 59px;
+        top: 180px;
+    }
+
+    a#tc {
+        left: 134px;
+        top: 187px;
+        color: #b9c6df;
+    }
+
+    #coteau {
+        left: 53px;
+        top: 234px;
+    }
+
+    #snow {
+        left: 267px;
+        top: 119px;
+    }
+
+    #bluff {
+        left: 195px;
+        top: 250px;
+    }
+
+    #historic_towns {
+        left: 110px;
+        top: 216px
+    }
+
+    #door {
+        left: 351px;
+        top: 186px;
+    }
+
+    #northern {
+        left: 224px;
+        top: 136px;
+    }
+
+    a#madison {
+        left: 262px;
+        top: 266px;
+        color: #b9c6df;
+    }
+
+    a#milwaukee {
+        left: 295px;
+        top: 283px;
+        color: #b9c6df
+    }
+
+    a#chicago {
+        left: 299px;
+        top: 315px;
+        color: #b9c6df;
+    }
+
+    a#thunder {
+        left: 267px;
+        top: 24px;
+        color: #ffffff;
+    }
+
+    #big_lakes {
+        left: 392px;
+        top: 125px;
+    }
+
+    #kettles {
+        left: 303px;
+        top: 254px;
+    }
+
+    #dells {
+        left: 256px;
+        top: 252px;
+    }
+
+    #miss {
+        left: 169px;
+        top: 211px;
+    }
+
+    #coulees {
+        left: 228px;
+        top: 240px;
+    }
+
+    #stcroix {
+        left: 155px;
+        top: 164px;
+    }
+
+    #chippewa {
+        left: 198px;
+        top: 180px;
+    }
+
+    #nicolet {
+        left: 292px;
+        top: 171px;
+    }
+
+    #riverroad {
+        left: 204px;
+        top: 289px;
+    }
+
+    #ccountry {
+        left: 245px;
+        top: 280px;
+    }
+
+    #lakestrails {
+        left: 112px;
+        top: 262px;
+        width: 50px;
+    }
+
+    #heritagetowns {
+        left: 144px;
+        top: 322px;
+        width: 50px;
+    }
+
+    #wisconsin_resorts {
+        left: 254px;
+        top: 164px;
+    }
+
+    #wisconsin_river_towns {
+        left: 264px;
+        width: 70px;
+        top: 222px;
+    }
+
+    #chicago_getaways {
+        left: 275px;
+        top: 305px;
+    }
+
+
+}
+
+.fclear {
+    clear: both
+}
+
+
+/****************************************************************
+    Styles for the slideshow companion page
+ ****************************************************************/
+
+#textcontent-companion {
+    padding: 0 0 20px 20px;
+}
+
+#textcontent-companion #col_left {
+    width: 528px;
+    float: left;
+    margin: 0 0 2em 1em;
+}
+
+#slideshow {
+    margin-right: 46px;
+    width: 370px;
+    height: 313px;
+    background: #aaa;
+    position: relative;
+    overflow: hidden;
+    float: right;
+}
+
+#slideshow #navbar {
+    position: absolute;
+    top: 278px;
+    height: 35px;
+    width: 100%;
+    background: #000;
+}
+
+#slideshow .slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+#slideshow #navbar #controls {
+    float: right;
+    color: #fff;
+    margin-right: 10px;
+    width: 80px;
+}
+
+#navbar #slidecaption {
+    width: 250px;
+    color: #fff;
+    font-size: 10px;
+    height: 20px;
+    margin: 4px 0;
+    margin-left: 8px;
+    line-height: 1.3;
+    left: left;
+}
+
+#navbar span#prev {
+    display: block;
+    cursor: pointer;
+    height: 25px;
+    width: 14px;
+    background: url(/graphics/nav_elements.png) no-repeat;
+    margin-top: 5px;
+    float: right;
+    text-indent: -600px;
+}
+
+#navbar span#next {
+    display: block;
+    cursor: pointer;
+    height: 25px;
+    width: 14px;
+    background: url(/graphics/nav_elements.png) no-repeat -42px 0;
+    margin-top: 5px;
+    float: right;
+    text-indent: -600px;
+    margin-left: 5px;
+}
+
+#navbar span#pause {
+    display: block;
+    cursor: pointer;
+    height: 25px;
+    width: 25px;
+    background: url(/graphics/nav_elements.png) no-repeat -12px 0;
+    margin-top: 5px;
+    float: right;
+    text-indent: -600px;
+    margin-left: 2px;
+}
+
+#navbar span#play {
+    display: block;
+    cursor: pointer;
+    height: 25px;
+    width: 25px;
+    background: url(/graphics/nav_elements.png) no-repeat -61px 0;
+    margin-top: 5px;
+    float: right;
+    text-indent: -600px;
+    margin-left: 2px;
+    display: none;
+}
+
+#storylist {
+    clear: both;
+    margin-top: 10px;
+}
+
+#storylist ul {
+    margin: 0;
+    padding: 0 0 0 12px;
+}
+
+#storylist ul li {
+    list-style: none;
+    margin: 0;
+    margin-right: 22px;
+    margin-bottom: 25px;
+    padding: 0;
+    float: left;
+    width: 290px;
+}
+
+#storylist h3 a {
+    font-size: 16px;
+    color: #039;
+    text-decoration: none;
+}
+
+#storylist h3 {
+    margin-bottom: 0;
+}
+
+#storylist h4 {
+    margin-top: 8px;
+    margin-bottom: 12px;
+    font-size: 13px;
+}
+
+.sharing {
+    padding: 10px 0;
+    text-align: left;
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #999;
+    margin: 15px;
+    0;
+}
+
+/** Styles for the Event submission form */
+
+#event_form ul {
+    list-style: none;
+}
+
+#event_form li {
+    margin-bottom: 8px;
+}
+
+#event_form label {
+    width: 80px;
+    display: block;
+    float: left;
+}
+
+#event_form input {
+    border: 1px solid #999;
+    width: 200px;
+}
+
+#event_form textarea {
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+}
+
+/** Styles for the featured places list
+    Thanks to: http://www.ruzee.com/blog/2007/05/align-list-items-horizontally-with-css
+*/
+
+.fp_list {
+    list-style: none;
+    margin-left: 0 0 0 25px;
+}
+
+.fp_list img {
+    margin-bottom: 8px;
+}
+
+
+.fp_list li {
+    width: 150px;
+    margin: 0 18px 15px 18px;
+    display: inline-block;
+    vertical-align: top;
+    word-wrap: break-word;
+}
+
+* html .fp_list li {
+    display: inline;
+}
+
+* + html .fp_list li {
+    display: inline;
+}
+
+.fp_list li > * {
+    display: table;
+    table-layout: fixed;
+    overflow: hidden;
+}
+
+.footer-links {
+    display: inline;
+}
+
+.footer-links li {
+    display: inline-block;
+    margin-right: 1em;
+}
+
+.bordered-intext {
+    margin: 20px 0;
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #999;
+}
+
+.story-image {
+    float: right;
+    margin: 0 0 15px 1.5em;
+    width: 310px;
+    padding: 6px;
+}
+
+.figure-caption {
+    font-size: 15px;
+    font-style: italic;
+    clear: both;
+}
+
+.story-image img {
+    width: 100%;
+    clear: both;
+    display: block;
+}
+
+.story-image .copyright {
+    float: right;
+    clear: both;
+    font-size: 85%;
+}
+
+#categorylisting li {
+    list-style-type: none;
+    margin-bottom: 3em;
+}
+
+.pat-right {
+    float: right;
+    width: 510px;
+    clear: both;
+    margin-right: 20px;
+}
+
+.pat-left {
+    width: 43%;
+    margin-top: 0;
+    padding: 0;
+    left: 15px;
+    position: relative
+}
+
+@media screen and (max-width: 600px) {
+
+    #everything {
+        top: 0;
+    }
+
+    #desktop-header {
+        display: none;
+    }
+
+    #mobile-header {
+        display: block;
+    }
+
+    body {
+        font-size: 15px;
+        line-height: 1.3;
+        margin: 0;
+        background: #fff;
+    }
+
+    #wrapper {
+        width: 100%;
+        padding: 0;
+        background: #fff;
+        margin-right:0px;
+        /*overflow-x: hidden;*/
+    }
+
+    #header {
+        width: 100%;
+    }
+
+    #menu {
+        width: 100%;
+        overflow: hidden;
+        padding: 0;
+        margin: 0;
+    }
+
+    #related {
+        display: none;
+    }
+
+    #story {
+        padding: 0;
+        margin: 0;
+        border: none;
+        width: 100%;
+    }
+
+    #textcontent {
+        margin: 0;
+        padding: 20px;
+        font-size: 15px;
+        line-height: 1.35;
+    }
+
+    #textcontent p {
+        margin-bottom: 1.2em;
+    }
+
+    #footer {
+        display: none;
+    }
+
+    #columnMain {
+        margin: 2em 0;
+    }
+
+    .story-image {
+        clear: both;
+        position: relative;
+        float: none;
+        margin: 1.3em auto 2.3em;
+        padding: 10px 0;
+        border-top: 1px solid #888;
+        border-bottom: 1px solid #888;
+        width: 100%;
+    }
+
+    .story-image .copyright {
+        margin-top: 6px;
+    }
+
+    .image-content {
+        position: relative;
+        margin: 0 auto;
+        clear: both;
+        max-width: 315px;
+        padding: 0;
+    }
+
+    .story-image img {
+        margin: 0;
+        clear: both;
+    }
+
+    /* Mobile header styling */
+    header.site-header {
+        width: 100%;
+        position: relative;
+    }
+
+    header hgroup {
+        background: #8fbfef;
+        position: relative;
+        height: 50px;
+    }
+
+    header .white-strip {
+        height: 35px;
+        background: #fff;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    header .logo-left {
+        position: absolute;
+        left: 0;
+        height: 60px;
+        width: 120px;
+        background: url(/graphics/MidwestWeekend_mobile_header_sm.png) no-repeat;
+    }
+
+    .site-header h1 {
+        text-indent: -9999px;
+        background: url(/graphics/mobile-title-light.png) no-repeat;
+        background-size: contain;
+        background-repeat: no-repeat;
+        max-height: 26px;
+        width: 65%;
+        position: relative;
+        top: -2px;
+        left: 20%;
+    }
+
+    h1 {
+        font-weight: bold;
+        font-size: 24px;
+        color: #333;
+        margin: 15px 0 8px;
+    }
+
+    .site-header h2 {
+        display: none;
+    }
+
+    h2 {
+        font-weight: bold;
+        font-size: 20px;
+        color: #333;
+    }
+
+    header .logo-right {
+        position: absolute;
+        right: 1%;
+        top: 5px;
+        height: 46px;
+        width: 55px;
+        background: url(/graphics/island-right.png) no-repeat;
+    }
+
+    nav ul {
+        background: #7292bb;
+        height: 38px;
+        padding: 0;
+        margin-block-start: 0;
+        margin-block-end: 0;
+    }
+
+    header.site-header li {
+        float: left;
+        width: 25%;
+        height: 25px;
+        line-height: 25px;
+        list-style-type: none;
+    }
+
+    nav a {
+        height: 25px;
+        line-height: 25px;
+        color: #fff;
+    }
+
+    header.site-header li a {
+        /* width: 20%; */
+        height: 20px;
+        line-height: 20px;
+        font-size: 16px;
+        padding: 8px 2.5%;
+        text-decoration: none;
+        text-align: center;
+        display: block;
+    }
+
+    .clearafter:after {
+        content: ".";
+        width: 0;
+        height: 0;
+        visibility: hidden;
+        clear: both;
+    }
+
+    .site-header .search-bar {
+        background: #7292bb;
+        padding: 5px 15px;
+        display: none;
+    }
+
+    #columnLeft {
+        display:none;
+    }
+
+    #columnMain .columnSub {
+        width: 100%;
+    }
+
+    #story h1 {
+        font-size: 24px;
+    }
+
+    #story h2 {
+        font-size: 16px;
+        line-height: 1.2;
+        font-weight: normal;
+        font-style: oblique;
+    }
+
+    .story-image:first-of-type {
+        border: none;
+    }
+
+    /* homepage styling */
+    .hp-story {
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 8px;
+    }
+
+    .hp-story > p {
+        display: none;
+    }
+
+    .hp-story h1,
+    .hp-story h2 {
+        margin-left: 40%;
+    }
+
+    .hp-story h1 {
+        font-size: 15px;
+        margin-top: 0;
+    }
+
+    .hp-story h2 {
+        font-size: 13px;
+        font-weight: normal;
+        font-style: oblique;
+        line-height: 1.3;
+    }
+
+    #columnMain .storythumb {
+        floar: left;
+        width: 35%;
+        position: absolute;
+        top: 0;
+    }
+
+    .columnSub .container {
+        margin-bottom: 0;
+        padding: 0 4px;
+    }
+
+    #columnMain .columnSub {
+        margin: 0;
+    }
+
+    #categorylisting {
+        margin-left: 0;
+    }
+
+    #mapbg {
+        display: none;
+    }
+
+    .pat-container {
+        /*direction: rtl;*/
+        display: flex;
+        flex-direction: row-reverse;
+        flex-wrap: wrap;
+    }
+
+    .pat-container table {
+        width: 100%;
+    }
+
+    .pat-container > * {
+        flex: 1 0 100%;
+    }
+
+    .pat-container td.column ul {
+        padding-left: 0;
+        font-style: oblique;
+        /*display: none;*/
+    }
+
+    .pat-right {
+        display: none;
+    }
+
+    .pat-left td.column h2 {
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+    }
+
+    .pat-left td.column li {
+        list-style-type: none;
+        list-style-position: outside;
+        margin-left: 0;
+        font-size: 13px;
+        line-height: 1.4;
+        display: initial;
+    }
+
+    .pat-left td.column li::after {
+        content: ", "
+    }
+
+    .pat-left td.column a {
+        text-decoration: none;
+        color: #555;
+    }
+
+    .pat-left td {
+        display: block;
+        padding-right: 10%;
+    }
+
+    #col_left {
+        margin: 0 0 2em 2em;
+        width: 80%;
+        float: left;
+    }
+
+    #col_right {
+        display: block;
+        width: 100%;
+        margin: 2em 0 0 0;
+    }
+
+    #col_right img {
+        display: block;
+        margin: 2.5em auto 0;
+    }
+
+}
+
+.eventday__headline {
+    text-align: center;
+    margin: 1em 0 0.5em;
+    font-size: 6vw;
+}
+
+@media screen and (min-width: 601px) {
+    .eventday__headline {
+        font-size: 30px;
+    }
+
+    .event-content {
+        max-width: 43em;
+        margin: 0 2em;
+    }
+}
+
+.site-msg-container {
+    display: none;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(51,51,51,0.75);
+}
+
+.msg-outline {
+    position: absolute;
+    width: 100%;
+    top: 45%;
+    background: #fff;
+    padding: 1em 0;
+    text-align: center;
+    border-top: 5px solid #d77;
+    border-bottom: 5px solid #d77;
+}
