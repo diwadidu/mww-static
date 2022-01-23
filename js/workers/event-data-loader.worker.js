@@ -14,7 +14,7 @@ class LoadEventDataWorker {
     const year = message.data.year;
     const paddedMonth = zeroPad(message.data.month);
 
-    const resourceUrl = `${ message.data.domain }/${this.eventApiPath}/events-${ year }-${ paddedMonth }.json`;
+    const resourceUrl = `${ message.data.domain }${this.eventApiPath}/events-${ year }-${ paddedMonth }.json`;
     const requestObj = new XMLHttpRequest();
 
     requestObj.onload = this.processRawEventData(year, paddedMonth);
