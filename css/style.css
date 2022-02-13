@@ -96,8 +96,20 @@
         text-decoration: underline
     }
 
+    .homepage-fastplan h2 {
+        font: bold 21px Arial, Helvetica, Verdana, Tahoma, sans-serif;
+        color: #003399;
+        margin: 0 0 0.2em 0;
+        padding: 3px 0;
+    }
+
+    .homepage-fastplan h2:before {
+        content: "Fast Plans/"
+
+    }
+
     h3 {
-        font: bold 14px Arial, Helvetica, Verdana, Tahoma,
+        font: bold 14px Arial, Helvetica, Verdana, Tahoma, sans-serif;
         sans-serif: #000
     }
 
@@ -1572,6 +1584,24 @@
     position: relative
 }
 
+.hp-story {
+    margin-bottom: 3.8em;
+}
+
+.hp-story img {
+    width: 100%
+}
+
+.fast-plan-content img {
+    float: left;
+    margin: 0 1.2em 1em 0;
+}
+
+#categorylisting .fast-plan-content h2 {
+    font-size: 21px;
+    margin-bottom: 0.8em;
+}
+
 @media screen and (max-width: 600px) {
 
     #everything {
@@ -1835,11 +1865,28 @@
         line-height: 1.3;
     }
 
+    #columnMain .fastplan-image,
     #columnMain .storythumb {
-        floar: left;
+        float: left;
         width: 35%;
         position: absolute;
         top: 0;
+    }
+
+    #columnMain .fastplan-image,
+    #columnMain .storythumb.this-week-thumb {
+        float: left;
+        width: 35%;
+        position: relative;
+        margin-right: 1.5em;
+    }
+
+    #columnMain .fastplan-image {
+
+    }
+
+    .story-summary {
+        font-size: 13px;
     }
 
     .columnSub .container {
@@ -1930,6 +1977,19 @@
         margin: 2.5em auto 0;
     }
 
+    .homepage-fastplan h2 {
+        font-size: 15px;
+        margin-top: 0;
+        color: #003399;
+        font-weight: bold;
+        font-style: normal;
+    }
+
+    .homepage-fastplan p {
+        display: block;
+    }
+
+
 }
 
 .eventday__headline {
@@ -1937,6 +1997,8 @@
     margin: 1em 0 0.5em;
     font-size: 6vw;
 }
+
+
 
 @media screen and (min-width: 601px) {
     .eventday__headline {
@@ -1949,13 +2011,27 @@
     }
 }
 
+a[href*="http"]:after {
+    font-family: "FontAwesome";
+    content: "\f08e";
+    font-size: 14px;
+    padding: 0 0.35em 0 0.3em;
+    font-weight: 200;
+    color: #555;
+}
+
+a[href*="http"].no-link-symbol:after {
+    content: "";
+    padding: 0;
+}
+
 .site-msg-container {
     display: none;
     position: fixed;
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: rgb(51,51,51,0.75);
+    background-color: rgb(51, 51, 51, 0.75);
 }
 
 .msg-outline {
