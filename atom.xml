@@ -4,7 +4,7 @@
   <subtitle>... because life&#39;s too short to stay home</subtitle>
   <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
   <link href="https://midwestweekends.com/"/>
-  <updated>2022-02-13T00:00:00.000Z</updated>
+  <updated>2022-02-15T00:00:00.000Z</updated>
   <id>https://midwestweekends.com/</id>
   <author>
     <name>Beth Gauper</name>
@@ -60,22 +60,6 @@
   </entry>
   
   <entry>
-    <title>Living like a pioneer</title>
-    <link href="https://midwestweekends.com/plan-a-trip/history-heritage/frontier-history/history-day-camps-children-families/"/>
-    <updated>2022-02-09T23:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/history-heritage/frontier-history/history-day-camps-children-families/</id>
-    <content type="html">At forts, fur posts and frontier homesteads in Minnesota and Wisconsin, kids can live like Laura Ingalls Wilder or Davy Crockett.</content>
-  </entry>
-  
-  <entry>
-    <title>Minnesota&#39;s cave country</title>
-    <link href="https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/minnesota-caves/"/>
-    <updated>2022-02-09T23:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/minnesota-caves/</id>
-    <content type="html">In the southeast corner of the state, scratch the surface for a glimpse of splendor.</content>
-  </entry>
-  
-  <entry>
     <title>Lodgings in Lanesboro</title>
     <link href="https://midwestweekends.com/plan-a-trip/stay/bed-breakfast/lanesboro-BBs-inns/"/>
     <updated>2022-02-09T23:00:00.000Z</updated>
@@ -100,10 +84,26 @@
   </entry>
   
   <entry>
+    <title>Living like a pioneer</title>
+    <link href="https://midwestweekends.com/plan-a-trip/history-heritage/frontier-history/history-day-camps-children-families/"/>
+    <updated>2022-02-09T23:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/history-heritage/frontier-history/history-day-camps-children-families/</id>
+    <content type="html">At forts, fur posts and frontier homesteads in Minnesota and Wisconsin, kids can live like Laura Ingalls Wilder or Davy Crockett.</content>
+  </entry>
+  
+  <entry>
     <title>Amish country</title>
     <link href="https://midwestweekends.com/plan-a-trip/touring/guided-trips/amish-tours-minnesota/"/>
     <updated>2022-02-09T23:00:00.000Z</updated>
     <id>https://midwestweekends.com/plan-a-trip/touring/guided-trips/amish-tours-minnesota/</id>
     <content type="html">In the southeast corner of Minnesota, folks are different, yet not so different.</content>
+  </entry>
+  
+  <entry>
+    <title>Road trip: Bluff-country byways</title>
+    <link href="https://midwestweekends.com/plan-a-trip/touring/roadtrips/bluff-country-minnesota-fall/"/>
+    <updated>2022-02-09T23:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/touring/roadtrips/bluff-country-minnesota-fall/</id>
+    <content type="html">During harvest, the towns around Lanesboro in Minnesota&#39;s southeast corner yield a cornucopia of treats and scenery.</content>
   </entry>
 </feed>
