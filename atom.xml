@@ -4,7 +4,7 @@
   <subtitle>... because life&#39;s too short to stay home</subtitle>
   <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
   <link href="https://midwestweekends.com/"/>
-  <updated>2022-02-13T00:00:00.000Z</updated>
+  <updated>2022-02-15T00:00:00.000Z</updated>
   <id>https://midwestweekends.com/</id>
   <author>
     <name>Beth Gauper</name>
@@ -28,19 +28,11 @@
   </entry>
   
   <entry>
-    <title>Cheap winter getaways</title>
-    <link href="https://midwestweekends.com/plan-a-trip/best-trips/cheap-trips/cheap-winter-trips/"/>
+    <title>50 great girlfriend getaways</title>
+    <link href="https://midwestweekends.com/plan-a-trip/family-friends/girlfriend-getaways/getaways-for-women/"/>
     <updated>2022-02-09T23:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/best-trips/cheap-trips/cheap-winter-trips/</id>
-    <content type="html">Here are 20 places where a fun weekend is easy on the wallet.</content>
-  </entry>
-  
-  <entry>
-    <title>100 best places to vacation</title>
-    <link href="https://midwestweekends.com/plan-a-trip/best-trips/favorite-places/100-best-places-midwest/"/>
-    <updated>2022-02-09T23:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/best-trips/favorite-places/100-best-places-midwest/</id>
-    <content type="html">Here&#39;s one traveler&#39;s life list for trips in Minnesota, Wisconsin, Iowa and Illinois.</content>
+    <id>https://midwestweekends.com/plan-a-trip/family-friends/girlfriend-getaways/getaways-for-women/</id>
+    <content type="html">Looking for ideas? Here are fun trips for every season.</content>
   </entry>
   
   <entry>
@@ -49,14 +41,6 @@
     <updated>2022-02-09T23:00:00.000Z</updated>
     <id>https://midwestweekends.com/plan-a-trip/family-friends/girlfriend-getaways/girlfriend-getaways-midwest/</id>
     <content type="html">Here are the best places to go for a good time in all four seasons.</content>
-  </entry>
-  
-  <entry>
-    <title>50 great girlfriend getaways</title>
-    <link href="https://midwestweekends.com/plan-a-trip/family-friends/girlfriend-getaways/getaways-for-women/"/>
-    <updated>2022-02-09T23:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/family-friends/girlfriend-getaways/getaways-for-women/</id>
-    <content type="html">Looking for ideas? Here are fun trips for every season.</content>
   </entry>
   
   <entry>
@@ -73,6 +57,22 @@
     <updated>2022-02-09T23:00:00.000Z</updated>
     <id>https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/minnesota-caves/</id>
     <content type="html">In the southeast corner of the state, scratch the surface for a glimpse of splendor.</content>
+  </entry>
+  
+  <entry>
+    <title>Cheap winter getaways</title>
+    <link href="https://midwestweekends.com/plan-a-trip/best-trips/cheap-trips/cheap-winter-trips/"/>
+    <updated>2022-02-09T23:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/best-trips/cheap-trips/cheap-winter-trips/</id>
+    <content type="html">Here are 20 places where a fun weekend is easy on the wallet.</content>
+  </entry>
+  
+  <entry>
+    <title>100 best places to vacation</title>
+    <link href="https://midwestweekends.com/plan-a-trip/best-trips/favorite-places/100-best-places-midwest/"/>
+    <updated>2022-02-09T23:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/best-trips/favorite-places/100-best-places-midwest/</id>
+    <content type="html">Here&#39;s one traveler&#39;s life list for trips in Minnesota, Wisconsin, Iowa and Illinois.</content>
   </entry>
   
   <entry>
