@@ -14,6 +14,7 @@
   <entry>
     <title>This Weekend</title>
     <link href="https://midwestweekends.com/this-weekend/"/>
+<<<<<<< HEAD
     <updated>2022-02-27T23:00:00.000Z</updated>
     <id>https://midwestweekends.com/this-weekend/</id>
     <content type="html"></content>
@@ -26,4 +27,10 @@
     <id>https://midwestweekends.com/fast-plans/prime-time-gunflint-trail/</id>
     <content type="html"></content>
   </entry>
+=======
+    <updated>2022-02-21T23:00:00.000Z</updated>
+    <id>https://midwestweekends.com/this-weekend/</id>
+    <content type="html"></content>
+  </entry>
+>>>>>>> 866f9cd1272739cc2922732ce578d3527b8f6ed7
 </feed>
