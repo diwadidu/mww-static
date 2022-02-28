@@ -12,18 +12,18 @@
   </author>
   
   <entry>
-    <title>Prime time on the Gunflint Trail</title>
-    <link href="https://midwestweekends.com/fast-plans/prime-time-gunflint-trail/"/>
+    <title>This Weekend</title>
+    <link href="https://midwestweekends.com/this-weekend/"/>
     <updated>2022-02-27T23:00:00.000Z</updated>
-    <id>https://midwestweekends.com/fast-plans/prime-time-gunflint-trail/</id>
+    <id>https://midwestweekends.com/this-weekend/</id>
     <content type="html"></content>
   </entry>
   
   <entry>
-    <title>This Weekend</title>
-    <link href="https://midwestweekends.com/this-weekend/"/>
-    <updated>2022-02-21T23:00:00.000Z</updated>
-    <id>https://midwestweekends.com/this-weekend/</id>
+    <title>Prime time on the Gunflint Trail</title>
+    <link href="https://midwestweekends.com/fast-plans/prime-time-gunflint-trail/"/>
+    <updated>2022-02-27T23:00:00.000Z</updated>
+    <id>https://midwestweekends.com/fast-plans/prime-time-gunflint-trail/</id>
     <content type="html"></content>
   </entry>
 </feed>
