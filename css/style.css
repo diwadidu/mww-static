@@ -467,6 +467,12 @@
         margin: 10px 0 0 10px;
     }
 
+    .ad-right {
+        float: left;
+        width: 300px;
+        margin: 0.5em 1em 0 0;
+    }
+
     #col1 {
         width: 48%;
         float: left;
