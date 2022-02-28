@@ -2017,20 +2017,6 @@
     }
 }
 
-a[href*="http"]:after {
-    font-family: "FontAwesome";
-    content: "\f08e";
-    font-size: 14px;
-    padding: 0 0.35em 0 0.3em;
-    font-weight: 200;
-    color: #555;
-}
-
-a[href*="http"].no-link-symbol:after {
-    content: "";
-    padding: 0;
-}
-
 .site-msg-container {
     display: none;
     position: fixed;
