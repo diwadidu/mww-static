@@ -157,8 +157,8 @@ li.dayevententry div.dayeventdata h2.hnoborder {border:none;margin-bottom:-2px}
 h2.headlineunderline {border-bottom:1px solid #000;width:500px;margin-left:103px !important;padding-left:80px}
 
 #eventcontent {
-    margin-top:6px;
-    border-top:1px solid #000;
+    margin-top:-20px;
+    /*border-top:1px solid #000;*/
     width: 100%;
     /*width:980px;*/
 }
