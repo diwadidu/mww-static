@@ -6,24 +6,8 @@
     <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
     <link href="https://midwestweekends.com/"/>
     <copyright>Beth Gauper, All rights reserved</copyright>
-    <lastBuildDate>2022-03-07T00:00:00.000Z</lastBuildDate>
+    <lastBuildDate>2022-03-21T00:00:00.000Z</lastBuildDate>
     <ttl>1800</ttl>
-    
-    
-    <item>
-     <title>This Weekend</title>
-     <description></description>
-     <link>https://midwestweekends.com/this-weekend/</link>
-     <pubDate>2022-02-27T23:00:00.000Z</pubDate>
-    </item>
-    
-    
-    <item>
-     <title>Prime time on the Gunflint Trail</title>
-     <description></description>
-     <link>https://midwestweekends.com/fast-plans/prime-time-gunflint-trail/</link>
-     <pubDate>2022-02-27T23:00:00.000Z</pubDate>
-    </item>
     
   </channel>
 </rss>
