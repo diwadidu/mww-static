@@ -166,13 +166,13 @@ marked snowshoe trails and snowshoe rentals.</p>
 goodies.</p>
 <h3>Northeast</h3>
 <p><strong>Door County</strong> . This peninsula has many
-places to snowshoe in four state parks ---
+places to snowshoe in four state parks —
 <a href="http://dnr.wi.gov/topic/parks/name/Potawatomi/">Potawatomi</a> in Sturgeon
 Bay, <a href="http://dnr.wi.gov/topic/parks/name/whitefish/">Whitefish Dunes</a>
 near Jacksonport,
 <a href="http://dnr.wi.gov/topic/parks/name/peninsula/">Peninsula</a> near Fish
 Creek and <a href="http://dnr.wi.gov/topic/parks/name/newport/">Newport</a> near
-Ellison Bay and --- and 28 state natural areas and many county parks.</p>
+Ellison Bay and — and 28 state natural areas and many county parks.</p>
 <p>On the northeast side of Sturgeon Bay, just off Wisconsin 42, the
 <a href="http://www.crossroadsatbigcreek.com/">Crossroads at Big Creek</a> nature
 preserve <a href="http://www.crossroadsatbigcreek.com/ski-snowshoe-free/">lends snowshoes (and
@@ -294,8 +294,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

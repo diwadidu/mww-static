@@ -258,8 +258,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

@@ -135,7 +135,7 @@ enjoy that,&quot; he says. &quot;Most people have limited vacation time, and
 they want their dollars to be well-spent. Writers tend to pre-qualify
 stuff for us.&quot;</p>
 <p>The fact is, we all love lists, even when they're completely bogus. We
-know that no one can say what the 10 Best Small Towns in America are ---
+know that no one can say what the 10 Best Small Towns in America are —
 and what's &quot;best,&quot; anyway?</p>
 <p>But we suspend disbelief and read the list anyway. If the author
 mentions our favorite towns, she's a genius. If she doesn't, she's a
@@ -163,8 +163,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

@@ -27,7 +27,7 @@ sending plumes of white smoke into the air. Trucks rumble past, en route
 to North Dakota or Duluth.</p>
 <p>But this corner is the beginning of the Edge of the Wilderness drive,
 Minnesota's first National Scenic Byway.</p>
-<p>Along its 47 winding miles --- locals called it Highway Loop-de-Loop ---
+<p>Along its 47 winding miles — locals called it Highway Loop-de-Loop —
 it passes lakes and bogs plus an old iron-ore mine, an old CCC work
 camp, logging villages, the Laurentian Divide and a giant steel
 mosquito.</p>
@@ -193,8 +193,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

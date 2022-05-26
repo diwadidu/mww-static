@@ -100,7 +100,7 @@ off McCaffery Drive and got lost.</p>
 Beach, where I gratefully joined a crowd in the water. Then, with the
 help of another rider's map, I found my way to Olin Park and the path
 around Lake Monona.</p>
-<p>There was the white dome of the Capitol, gleaming across the water ---
+<p>There was the white dome of the Capitol, gleaming across the water —
 tourist trap, now bicyclist's friend. I pointed my tires in its
 direction.</p>
 <figure class="story-image"><div class="image-content"><img src="https://midwestweekends.com/media/images/m/a/madison_aerial.jpg" alt="Madison from the air." /><p class="copyright">&copy; Greater Madison CVB</p><figcaption class="figure-caption">
@@ -313,8 +313,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

@@ -23,8 +23,8 @@ service, then rescued, restored and returned to service.
 <p>On the western fringes of the Twin Cities, the wealthy have staked out
 Lake Minnetonka.</p>
 <p>Nearly all of its 125 miles of shoreline are privately owned, and the
-summer cottages built by vacationing flour millers and businessmen ---
-Pillsbury, Northrop, Bell, Loring, Peavey --- have morphed into
+summer cottages built by vacationing flour millers and businessmen —
+Pillsbury, Northrop, Bell, Loring, Peavey — have morphed into
 mansions.</p>
 <p>But on the southeast corner of the sprawling lake, one town retains
 vestiges of the Victorian age, when steamboats ferried vacationers
@@ -200,8 +200,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

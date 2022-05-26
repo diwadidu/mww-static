@@ -6,8 +6,16 @@
     <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
     <link href="https://midwestweekends.com/"/>
     <copyright>Beth Gauper, All rights reserved</copyright>
-    <lastBuildDate>2022-05-18T00:00:00.000Z</lastBuildDate>
+    <lastBuildDate>2022-05-26T00:00:00.000Z</lastBuildDate>
     <ttl>1800</ttl>
+    
+    
+    <item>
+     <title>America&#39;s freshwater Riviera</title>
+     <description>On the gorgeous beaches of Wisconsin, Michigan, Indiana and Illinois, everyone can find a spot in the sun.</description>
+     <link>https://midwestweekends.com/plan-a-trip/nature/beaches/beaches-lake-michigan/</link>
+     <pubDate>2022-05-25T22:00:00.000Z</pubDate>
+    </item>
     
   </channel>
 </rss>

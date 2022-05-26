@@ -65,8 +65,8 @@ The hotel's Skylight Room has Wright-designed art-glass panels.
 the 20th century. That put a lot of pressure on the non-profit Wright on
 the Park foundation, which bought the hotel from the city and undertook
 its restoration.</p>
-<p>On a Sunday tour, docent Teri Elsbury guided us around the hotel ---
-&quot;it's a little bit of a maze,&quot; she said --- and explained the
+<p>On a Sunday tour, docent Teri Elsbury guided us around the hotel —
+&quot;it's a little bit of a maze,&quot; she said &amp;mash; and explained the
 hallmarks of the Prairie School: flat, horizontal lines with overhanging
 eaves, evoking the prairie landscape, and ocher, sage and russet tones
 that echo its colors.</p>
@@ -89,8 +89,8 @@ designed wool carpets using geometric Wright patterns.</p>
 <p>The white-tile floor, despite being cracked and stained in places, was
 judged part of the &quot;historical fabric&quot; by the National Register of
 Historic Places, and had to stay.</p>
-<p>We climbed a narrow stairwell to a small mezzanine --- &quot;Wright wasn't
-a tall man, so be careful of your head,&quot; Elsbury warned --- which
+<p>We climbed a narrow stairwell to a small mezzanine &amp;mash; &quot;Wright wasn't
+a tall man, so be careful of your head,&quot; Elsbury warned &amp;mash; which
 builders reconstructed from Wright's plans.</p>
 <p>It features a player piano, two distinctive barrel-shaped chairs,
 reproduced from Wright's designs, and another low ceiling: &quot;He liked
@@ -210,8 +210,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

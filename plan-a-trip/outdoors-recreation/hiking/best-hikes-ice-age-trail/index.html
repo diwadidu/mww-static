@@ -101,7 +101,7 @@ Minnesota's Interstate State Park.</p>
 smooth as vinyl, it's easy to imagine the scene 12,000 years ago, when
 sheets of water from the melting Wisconsin Glacier roared past ,
 creating what now is the St. Croix River Valley.</p>
-<p>Named Dalles of the St. Croix --- dalle is French for rocky slab ---
+<p>Named Dalles of the St. Croix — dalle is French for rocky slab —
 this gorge is a first cousin of the Wisconsin Dells, which were created
 in a week by a nearly apocalyptic rush of glacial meltwater.</p>
 <p>Minnesota hikers can avoid Wisconsin's $10 out-of-state parking fee
@@ -176,7 +176,7 @@ must be epic in spring. Potholes were drilled into the rhyolite along
 with unusually large, oval percussion marks, which look like the
 footprints of a shaggy, 10,000-pound beast.</p>
 <p>Trails follow both sides of the river, connected by bridges. Cliffs line
-the north side, and the south banks are dark with trees --- hemlock,
+the north side, and the south banks are dark with trees — hemlock,
 sugar maple, yellow birch, and Canada yew. Part of the area is the Dells
 of the Eau Claire River state natural area.</p>
 <p>From Wisconsin 29, 15 miles east of Wausau, take County Road Y north
@@ -283,8 +283,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

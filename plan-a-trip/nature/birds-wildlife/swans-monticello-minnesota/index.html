@@ -77,7 +77,7 @@ exist 200 years ago.</p>
 <h3>Swan-watching in Monticello</h3>
 <p>The swans still will be around town, just not in the previously huge
 numbers. They like the warm water below the power plant, and places
-where the current is slow and there's no boat or people traffic ---
+where the current is slow and there's no boat or people traffic —
 although trumpeter swans are aggressive with each other, they're very
 skittish around humans.</p>
 <p>Sheila Lawrence loved watching the swan families and learning from their
@@ -88,7 +88,7 @@ That's when the amorous behaviors begin.</p>
 <figure class="story-image"><div class="image-content"><img src="https://midwestweekends.com/media/images/m/o/monticello_trumpeter_swans_landing.jpg" alt="Trumpeter swans come in for a landing in Monticello, Minn." /><p class="copyright">&copy; Torsten Muller</p><figcaption class="figure-caption">
 Trumpeter swans come in for a landing at Swan Park.
 </figcaption></div></figure>
-<p>&quot;You can tell in various ways --- how they hold their necks, how they
+<p>&quot;You can tell in various ways — how they hold their necks, how they
 hold themselves,&quot; Lawrence explained. &quot;They'll kick their feet, and
 raise themselves out of the water.&quot;</p>
 <p>Before she retired, Sheila Lawrence had switched to nights at her job so
@@ -132,8 +132,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

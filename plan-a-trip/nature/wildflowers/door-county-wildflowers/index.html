@@ -45,7 +45,7 @@ Arctic primrose, cancer root and ram's head lady's slipper. Cool lake
 breezes give this patch of land the characteristics of boreal forest,
 normally found much farther north.</p>
 <p>&quot;It's also called taiga,&quot; Newbern says. &quot;We've had people from
-Sweden here who recognized the plants, and naturalists from Russia ---
+Sweden here who recognized the plants, and naturalists from Russia —
 their language was limited, but they could throw around the Latin names,
 so we had a common language.&quot;</p>
 <p>Habitat for more species of plants than any other place in the state, it
@@ -111,7 +111,7 @@ Niagara Escarpment.</p>
 Jens Jensen, the landscape architect who, in 1935, founded the Clearing,
 the folk school Schneider now directs.</p>
 <p>&quot;Jens was on the five-man advisory board that had to decide what to do
-with it, and he said, 'Do nothing --- keep it, and some day people will
+with it, and he said, 'Do nothing — keep it, and some day people will
 appreciate having it,'&quot; Schneider said.</p>
 <p>Clinging to dolomite cliffs high above Green Bay, gnarled white cedars
 were hundreds of years old but still no bigger than a bodybuilder's
@@ -256,8 +256,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

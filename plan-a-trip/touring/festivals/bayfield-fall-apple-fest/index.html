@@ -21,7 +21,7 @@ There are a lot of photo opps at Apple Fest.
 </figcaption></div></figure>
 <p>In Bayfield, Wis., the apple has mushroomed.</p>
 <p>In 1961, the apple was the object of a small village festival. Today, it
-draws 60,000 people to a fall blowout featuring all things apple ---
+draws 60,000 people to a fall blowout featuring all things apple —
 fritters, sundaes, dumplings, pies and apple-cheeked children.</p>
 <p>On northern Wisconsin's Bayfield Peninsula, Apple Festival is nearly as
 revered as motherhood.</p>
@@ -197,8 +197,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

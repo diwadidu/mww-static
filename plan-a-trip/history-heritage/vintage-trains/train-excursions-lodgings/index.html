@@ -23,7 +23,7 @@ Minn.
 <p>Their glory days are long gone, but trains will never die.</p>
 <p>Thanks to the almost evangelical zeal of their devotees, the
 locomotives, coaches and cabooses of the 20th century still are serving
-passengers today --- on excursions and as overnight lodging, if not for
+passengers today — on excursions and as overnight lodging, if not for
 transportation.</p>
 <p>Noisy, smelly and outmoded, these trains still are marvelously evocative
 of a more romantic era, and those who love them are legion.</p>
@@ -67,7 +67,7 @@ re-create that for people,&quot; she said. &quot;We get kids who have read 'The
 Boxcar Children,' and adults who are avid collectors of train
 memorabilia, or whose parents worked for the railroad. It's fun to hear
 the stories.&quot;</p>
-<p>Many train aficionados take their vacations on the real train ---
+<p>Many train aficionados take their vacations on the real train —
 Amtrak, whose Empire Builder connects the Twin Cities, Milwaukee and
 Chicago.</p>
 <p>Day trips on Amtrak actually can be cheaper than tourist excursions,
@@ -163,8 +163,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

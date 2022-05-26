@@ -21,12 +21,12 @@ Butterwort grows on the rock outcroppings of Grand Marais harbor.
 </figcaption></div></figure>
 <p>In spring, not that many people go to the North Shore to see the
 flowers.</p>
-<p>They're small, and the rest of the scenery is big and distracting ---
+<p>They're small, and the rest of the scenery is big and distracting —
 roaring waterfalls, jagged cliffs and that mesmerizing inland sea that
 fills the horizon.</p>
 <p>If you do look down, you'll find them huddled in cracks on lava flows,
 tucked along hiking trails and in boggy patches along streams. They're
-dainty, but many are fairly unusual --- butterwort as well as bluebells,
+dainty, but many are fairly unusual — butterwort as well as bluebells,
 rock clematis along with columbine.</p>
 <p>They stick around for a while, too, because the air from Lake Superior
 keeps them as cool as a florist's case.</p>
@@ -59,8 +59,8 @@ round and bright-red as strawberries sprouted.</p>
 Northern bluebells, which turn blue as they mature, love such low-lying
 spots as the mouth of the Cascade River.
 </figcaption></div></figure>
-<p>There are whole masses of butterwort --- like a pitcher plant, it's
-carnivorous, catching insects on its sticky leaves --- along the shore
+<p>There are whole masses of butterwort — like a pitcher plant, it's
+carnivorous, catching insects on its sticky leaves — along the shore
 in Cascade River State Park at <a href="http://www.dnr.state.mn.us/snas/sna01045/index.html">Butterwort Cliffs Scientific and Natural
 Area</a>
 .
@@ -195,8 +195,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

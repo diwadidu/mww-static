@@ -26,7 +26,7 @@ smooth as vinyl, it's easy to imagine the scene 10,000 years ago, when
 sheets of water from a melting glacier roared past Taylors Falls, into
 what now is the St. Croix River Valley.</p>
 <p>They came with such fury that whirlpools laced with sand and gravel
-drilled cylindrical holes into solid rock --- potholes, the world's
+drilled cylindrical holes into solid rock — potholes, the world's
 deepest.</p>
 <p>On the Minnesota side of the river, that fury must have had apocalyptic
 proportions. Behind Angle Rock, where the river takes a hard right,
@@ -40,7 +40,7 @@ Bottomless Pit.</p>
 volcanic rock. Its vagaries nudged relentlessly at softer rock, leaving
 formations that have long fascinated tourists, especially the craggy Old
 Man of the Dalles.</p>
-<p>Named Dalles of the St. Croix --- dalle is French for rocky slab ---
+<p>Named Dalles of the St. Croix — dalle is French for rocky slab —
 this gorge is a first cousin of the Wisconsin Dells, where meltwater
 sculpted riverside formations out of softer sandstone.</p>
 <p>The St. Croix dalles occupy a shorter stretch of river, but the captains
@@ -169,8 +169,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

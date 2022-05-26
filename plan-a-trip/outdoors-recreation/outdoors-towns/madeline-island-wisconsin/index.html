@@ -23,8 +23,8 @@ A hiker basks on the rocky shoreline of Big Bay State Park.
 given it as many variations as a Lake Superior agate.</p>
 <p>This wooded island off Wisconsin's Bayfield Peninsula, the largest of
 the 22 Apostle Islands, exerts a magnetic pull.</p>
-<p>The Ojibwe came from the east, led to &quot;food that grows on water&quot; ---
-wild rice --- by a cowrie shell in the sky, according to their origin
+<p>The Ojibwe came from the east, led to &quot;food that grows on water&quot; —
+wild rice — by a cowrie shell in the sky, according to their origin
 mythology,</p>
 <p>French fur traders followed and established the first fort in 1693.
 Rival Protestant and Catholic missionaries built the first churches and
@@ -188,8 +188,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

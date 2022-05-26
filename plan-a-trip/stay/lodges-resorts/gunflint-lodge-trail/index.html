@@ -107,7 +107,7 @@ Children run around snow sculptures outside Gunflint Lodge.
 </figcaption></div></figure>
 <p>Barb Gecas of Heston's Lodge came on to talk about the activity she was
 offering for a festival --- &quot;I thought there should be an indoor sport,
-too,&quot; she said --- and then there was an interview with Quinn
+too,&quot; she said — and then there was an interview with Quinn
 McCloughan, son of the owners of Bearskin Lodge.</p>
 <p>His parents, he said, were teachers in the Twin Cities suburb of Wayzata
 who had bought the resort in a burst of enthusiasm after the American
@@ -131,7 +131,7 @@ tell people it's a lifestyle, not a job.&quot;</p>
 resort, where children were sledding, and walked onto the lake to look
 at the snow sculptures. Sculptors also had built them in front of
 Gunflint Lodge, and I walked out to see those, too.</p>
-<p>It was the first day of March and as bright as a day at the beach ---
+<p>It was the first day of March and as bright as a day at the beach —
 brighter, with the sun bouncing off expanses of sparkling snow. From the
 middle of the lake, Gunflint Lodge looked puny and insignificant against
 its backdrop of firs and cliffs, just a blip in the wilderness.</p>
@@ -221,8 +221,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

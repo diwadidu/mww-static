@@ -40,7 +40,7 @@ Baumgartner Cheese Store and Tavern, in business in Monroe since 1931.
 <p>Limburger, whose aroma can turn heads, always has been the butt of
 jokes. In 1935, a Mrs. Merle Denzler wrote this sonnet:</p>
 <p>&quot;O thou, sweet Limburger, whose name</p>
-<p>Has brought Green County untold fame ---</p>
+<p>Has brought Green County untold fame —</p>
 <p>How oft hast thy fragrance unaware</p>
 <p>Brought disgrace on thee unfair!&quot;</p>
 <p>At Baumgartner's, slabs of the rich, creamy cheese are served on rye,
@@ -125,7 +125,7 @@ Swiss Colony was founded there in 1926, and the town still is ringed by
 cooperatives and cheese outlets.</p>
 <p>With such enticements, the idyllic landscape of Green County is nearly
 irresistible. Monroe's motto, &quot;We bring you back,&quot; is fitting. Tourists
-do come back, again and again --- usually, led by their noses.</p>
+do come back, again and again — usually, led by their noses.</p>
 <h3>Trip Tips: Monroe and Green County in Wisconsin</h3>
 <figure class="story-image"><div class="image-content"><img src="https://midwestweekends.com/media/images/m/o/monroe_brown_swiss_cow.jpg" alt="A Swiss brown cow at Cheese Days." /><p class="copyright">&copy; Green County</p><figcaption class="figure-caption">
 The animal who makes it all possible: the brown Swiss cow, bred in the
@@ -192,8 +192,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

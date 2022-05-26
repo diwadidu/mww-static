@@ -52,7 +52,7 @@ which is why they worked so well.</p>
 <a href="https://www.yaktrax.com/product/walk">Yaktrax</a> , which uses steel coils
 over rubber webbing. In Hartley Park, we passed another hiker who wore
 Yaktrax and said she goes through four pairs every winter.</p>
-<p>At $20 apiece, that's more than one pair of Kahtoola Microspikes ---
+<p>At $20 apiece, that's more than one pair of Kahtoola Microspikes —
 which probably is why she showed so much interest in Torsten's feet.</p>
 <p>Eventually, I abandoned the Due North Ice Creepers and put on the $4
 crampons I bought at a general store near the mainland ice caves in the
@@ -121,8 +121,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

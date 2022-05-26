@@ -64,10 +64,10 @@ the many bur oaks were especially tough, surviving the prairie fires.</p>
 gorge, steadily washing away softer rock until the surrounding bluffs
 loom over the river like mountains.</p>
 <p>Passing through corridors of trees, red with sumac, the trail emerges to
-a panorama of the valley far below --- the patchwork delta of the Black
+a panorama of the valley far below — the patchwork delta of the Black
 River, the labyrinthine channels traversed by tiny barges, the Wisconsin
 ridge tops dotted by farms.</p>
-<p>Across the ravine, dome-shaped Queen's Bluff looks partly bald ---
+<p>Across the ravine, dome-shaped Queen's Bluff looks partly bald —
 these south- and southwest-facing bluffs are known for goat prairies,
 patches of the slopes that soak up so much sun and are so steep they
 have their own microclimates and support plants rarely found elsewhere.</p>
@@ -280,8 +280,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

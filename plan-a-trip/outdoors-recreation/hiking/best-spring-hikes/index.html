@@ -139,9 +139,9 @@ near
 <p><strong><a href="/plan-a-trip/nature/wildflowers/door-county-wildflowers/">Ridges
 Sanctuary</a> in
 Baileys Harbor</strong> . This is nature preserve
-is paradise for anyone who loves wildflowers. The unusual topography ---
+is paradise for anyone who loves wildflowers. The unusual topography —
 boggy swales interspersed with sandy ridges, next to Lake Michigan beach
---- make it home for many rare species, including the dwarf lake iris
+— make it home for many rare species, including the dwarf lake iris
 and Arctic primrose.</p>
 <p>Boardwalks cross the swales, and winding paths take hikers through cedar
 forest. In June, look for 25 species of orchids.</p>
@@ -159,7 +159,7 @@ pelicans and other migrating birds whooshing by, nearly at eye level.</p>
 panoramas</a> .</p>
 <p><strong><a href="/plan_a_trip/outdoors_recreation/hiking/best_hikes_ice_age_trail/">Ice Age National Scenic Trail</a> across
 the state</strong> . The thing that makes this
-1,000-mile trail across Wisconsin so cool are the landforms --- eskers,
+1,000-mile trail across Wisconsin so cool are the landforms — eskers,
 drumlins, kames and kettles, all created by the retreating glacier.</p>
 <figure class="story-image"><div class="image-content"><img src="https://midwestweekends.com/media/images/l/a/lake_geneva_bay.jpg" alt="A pretty bay on Geneva Lake." /><p class="copyright">&copy; Beth Gauper</p><figcaption class="figure-caption">
 Flowering trees line Lake Geneva's Lakeshore Path in spring.
@@ -287,8 +287,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

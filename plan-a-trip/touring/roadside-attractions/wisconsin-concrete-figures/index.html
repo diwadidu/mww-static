@@ -22,7 +22,7 @@ the Mississippi.
 </figcaption></div></figure>
 <p>In Wisconsin, nonconformity is cast in concrete.</p>
 <p>In the middle of the last century, a motley collection of ordinary folk
---- a dairy farmer, a car dealer, a tavern owner, a factory worker ---
+— a dairy farmer, a car dealer, a tavern owner, a factory worker —
 took a sharp turn away from the ordinary.</p>
 <p>Out of the blue, they began to fashion fairy-tale characters, castles,
 temples and historical figures out of concrete, adorning them with bits
@@ -67,13 +67,13 @@ Germany.</p>
 Grotto</a>
 .</p>
 <p>In the north woods, former lumberjack and tavern owner Fred Smith
-started building figures of people he liked or admired --- he filled the
+started building figures of people he liked or admired — he filled the
 yard of his tavern with 203 figures, which he called the Wisconsin
 Concrete Park.</p>
 <p>His neighbors in Phillips, Wis., thought he was a crackpot, but the
 flamboyant Smith didn't care: &quot;I've been having a good time all my
 life!&quot; he said, even after a 1964 stroke forced him into a rest home.</p>
-<p>The work was good for their souls --- and today, it's good for ours.</p>
+<p>The work was good for their souls — and today, it's good for ours.</p>
 <figure class="story-image"><div class="image-content"><img src="https://midwestweekends.com/media/images/h/o/hollandale_viking_family_tree.jpg" alt="Grandview's Viking ship and Family Tree." /><p class="copyright">&copy; Beth Gauper</p><figcaption class="figure-caption">
 A Viking stands in a ship at Nick Engelbert's Grandview. His Family
 Tree is in the background.
@@ -202,8 +202,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

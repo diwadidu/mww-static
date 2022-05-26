@@ -48,7 +48,7 @@ braver, and pretty soon we were tying our tubes together and going down
 backward, bouncing off the rails. Some people made convoys of eight
 tubes, until an announcer asked them to stick to four or fewer.</p>
 <p>Before each run, we stood in line for about five minutes, until we
-decided to wait for what one attendant called the &quot;Terrible Lane&quot; ---
+decided to wait for what one attendant called the &quot;Terrible Lane&quot; —
 longer and faster, with a sharp bend at the end. That's when my
 daughter ditched me and blazed ahead on her own.</p>
 <p>After I finally caught her at the bottom, we headed for the chalet
@@ -71,7 +71,7 @@ children or an age minimum of 4 years. Everyone has to sign a waiver
 before tubing.</p>
 <p>Most hills have either a handle tow, where people ride their tubes up
 the hill, or a &quot;magic carpet&quot;/&quot;moving sidewalk&quot; conveyor lift
----some of them even covered.</p>
+—some of them even covered.</p>
 <p>Before you go, check for hours (many hills are open weekends only),
 special deals, conditions and to make sure the hill isn't closed for a
 private party.</p>
@@ -240,8 +240,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

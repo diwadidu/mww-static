@@ -106,7 +106,7 @@ The Grand Parade winds through downtown Decorah.
 </figcaption></div></figure>
 <p>&quot;My father was on the original board,&quot; says Decorah native Dawn
 Svenson, &quot;and his proudest moment came when my grandfather returned
-from Norway and said to him --- and he was a man of very few words ---
+from Norway and said to him — and he was a man of very few words —
 'Gary, they have heard of your Nordic Fest over there. And they like
 it.' &quot;</p>
 <h3>Trip Tips: <a href="http://www.nordicfest.com/">Decorah's Nordic Fest</a></h3>
@@ -141,8 +141,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

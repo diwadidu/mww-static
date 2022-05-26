@@ -89,8 +89,8 @@ strolled along the lakefront eating ice-cream cones and kettle corn.</p>
 <p>Thunder Bay's strength is in neighborhoods that still have one foot in
 the Old World. In the morning, we joined the pilgrimage to the Hoito in
 the basement of the Finnish Labour Temple.</p>
-<p>Founded in 1918 to supply young bushworkers with low-cost meals ---
-Hoito means &quot;care&quot; in Finnish --- it became famous for its
+<p>Founded in 1918 to supply young bushworkers with low-cost meals —
+Hoito means &quot;care&quot; in Finnish — it became famous for its
 crepe-like pancakes.</p>
 <p>Next to us at the counter, Gordon Johnston of Peterborough, Ontario,
 said even his lawyer asked about the Hoito when he heard Johnston was
@@ -125,7 +125,7 @@ sausage. When it was our turn, a friendly young woman told us that first
 we needed to pick out freshly baked buns.</p>
 <p>&quot;First-timers, eh?&quot; she asked with a smile.</p>
 <p>When I go to Thunder Bay, I eat. This trip, I also collected the local
-candy bars --- Mr. Big, Eat More, Wunderbar. To an American, Thunder Bay
+candy bars — Mr. Big, Eat More, Wunderbar. To an American, Thunder Bay
 is just exotic enough.</p>
 <h3>Trip Tips: Thunder Bay, Ontario</h3>
 <p><em>Getting there</em> : It's four hours north of Duluth. Eastern Standard
@@ -271,8 +271,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

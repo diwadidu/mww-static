@@ -63,7 +63,7 @@ The lakeside walleye in Garrison is 15 feet long.
 </figcaption></div></figure>
 <p>Here, fishing is a way of life. The shore is lined with giant fiberglass
 walleyes, boat launches, ma-and-pa resorts and shacks advertising
-Bait-Gas-Grocery --- the true essentials of life on Mille Lacs.</p>
+Bait-Gas-Grocery — the true essentials of life on Mille Lacs.</p>
 <p>Tiny Garrison is the nominal capital, with its motels, restaurants and
 15-foot walleye at water's edge.</p>
 <p>Ojibwe land starts to the south, past Wigwam Bay. Into the 1950s, local
@@ -102,8 +102,8 @@ diapers, lined with dry moss and completely biodegradable.</p>
 <figure class="story-image"><div class="image-content"><img src="https://midwestweekends.com/media/images/m/i/mille_lacs_bicycling.jpg" alt="Bicycling in Father Hennepin park." /><p class="copyright">&copy; Beth Gauper</p><figcaption class="figure-caption">
 Bicyclists ride through Father Hennepin State Park.
 </figcaption></div></figure>
-<p>The museum also includes exquisite examples of Ojibwe artistry ---
-birchbark tobacco trays, basswood boxes, beaded bandolier bags --- many
+<p>The museum also includes exquisite examples of Ojibwe artistry —
+birchbark tobacco trays, basswood boxes, beaded bandolier bags — many
 from the collection of Harry and Jeannette Ayer, who ran a trading post
 on the reservation from 1918 to 1959.</p>
 <p>Next door, their restored 1925 Trading Post now is the museum gift shop,
@@ -111,7 +111,7 @@ with contemporary craftwork for sale.</p>
 <p>Three miles farther south on U.S. 169, clusters of campers' tents at
 Mille Lacs-Kathio State Park echo the many wigwams that once stood
 here.</p>
-<p>The park --- Kathio is a corrupted version of Izatys --- straddles the
+<p>The park — Kathio is a corrupted version of Izatys — straddles the
 Rum River as it begins its twisting run down to the Mississippi, and
 remnants of villages from 800 A.D. have been found along Ogechie,
 Shakopee and Onamia lakes, through which it runs.</p>
@@ -229,8 +229,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

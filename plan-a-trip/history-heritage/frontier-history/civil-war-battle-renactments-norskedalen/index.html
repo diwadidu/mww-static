@@ -103,7 +103,7 @@ just cain't get the beet juice off the wall,&quot; until a Union soldier
 pulled her back. In the yard, two women laid their heads on the breast
 of a dying man.</p>
 <p>We watched the scene, transfixed, and with each sob and groan, we felt a
-little more shell-shocked ourselves --- as if we really were in Virginia
+little more shell-shocked ourselves — as if we really were in Virginia
 during 1862.</p>
 <p>&quot;Some of these people are better than a professional actor, who
 doesn't do as much; they live it every day,&quot; said John Thiel of nearby
@@ -184,8 +184,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

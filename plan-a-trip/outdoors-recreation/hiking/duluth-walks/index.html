@@ -61,8 +61,8 @@ Bridges cross Tischer Creek on the Congdon Park Trail.
 the end of the street that traverses this sand spit. A wide gravel track
 leads hikers into a quiet world, broken only by the sawing of crickets
 and the occasional grunt of cranes in Superior Harbor.</p>
-<p>From a hushed thicket of red pine, the trail emerges into sand dunes ---
-carpeted with poison ivy; watch out --- and passes the remains of an
+<p>From a hushed thicket of red pine, the trail emerges into sand dunes —
+carpeted with poison ivy; watch out — and passes the remains of an
 1855 lighthouse and an abandoned Coast Guard boathouse with stepped
 gables.</p>
 <p>At the tip of the point, a lighthouse winks at the entry. In 1871, the
@@ -132,8 +132,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

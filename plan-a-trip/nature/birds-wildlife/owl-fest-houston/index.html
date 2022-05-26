@@ -119,9 +119,9 @@ to give to Alice, who then caches the leftovers around the house in
 spots that Bloem sometimes doesn't find until they start to rot.</p>
 <p>In the afternoon, there was an owl meet-and-greet hosted by Marge
 Gibson.</p>
-<p>We met Malcolm the barred owl, with no ear tufts but huge dark eyes ---
+<p>We met Malcolm the barred owl, with no ear tufts but huge dark eyes —
 &quot;if our eyes were that big, they'd be the size of grapefruits,&quot;
-Gibson said --- and Pepe Lulu the barn owl, with the white face that
+Gibson said — and Pepe Lulu the barn owl, with the white face that
 often gets barn owls mistaken for a ghost.</p>
 <p>There was Oscar the long-eared owl, and two Eastern screech owls, Watson
 and Wookie, whose wide-open eyes under straight-up ear tufts gave them a
@@ -207,8 +207,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

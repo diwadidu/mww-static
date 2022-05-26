@@ -29,7 +29,7 @@ bottle-cap makers.</p>
 There's a good reason to go there, though: It's entertaining to gawk
 at extreme wealth, and there's no better place to do it than Lake
 Geneva.</p>
-<p>The rich built fabulous estates along the 20 miles of shoreline ---
+<p>The rich built fabulous estates along the 20 miles of shoreline —
 French chateaus, Tudor lodges, turreted Queen Annes and one Buddhist
 temple, formerly the Ceylon pavilion at the 1893 World's Fair.</p>
 <p>Many are gone, but many remain, alongside newer homes that are bigger
@@ -263,8 +263,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

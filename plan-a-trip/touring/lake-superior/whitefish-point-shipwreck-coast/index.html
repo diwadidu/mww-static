@@ -24,7 +24,7 @@ Superior.
 first to sink. It was called the Invincible, but it was no match for
 winds whipping off the east end of Michigan's Upper Peninsula.</p>
 <p>The Invincible wreck was the first of hundreds along what become known
-as the Shipwreck Coast. The last --- we hope --- was the Edmund
+as the Shipwreck Coast. The last — we hope — was the Edmund
 Fitzgerald, which went down in 1975 with 29 lives lost.</p>
 <p>At Whitefish Point, not far from the Soo Locks, the lake narrows into a
 funnel where shipping lanes converge, visibility is poor and
@@ -73,7 +73,7 @@ boat as it struggles to recover.</p>
 the Coast Guard, National Transportation Safety Board and Lake Carriers
 Association came to three different conclusions.</p>
 <p>The museum campus includes a theater, where visitors watch a short movie
-about shipwrecks whose opening and closing music was --- what else? ---
+about shipwrecks whose opening and closing music was — what else? —
 &quot;The Wreck of the Edmund Fitzgerald.&quot;</p>
 <p>They can visit the keeper's quarters, suspended in 1929 with realistic
 models of keeper Robert Carlson and his family. They can scale the
@@ -166,8 +166,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

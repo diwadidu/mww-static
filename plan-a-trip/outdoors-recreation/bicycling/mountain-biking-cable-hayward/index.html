@@ -102,7 +102,7 @@ River at the National Fresh Water Fishing Hall of Fame. Next door, the
 town of 2,100 produces world-champion log-rollers and boom-runners at
 its Lumberjack Bowl .</p>
 <p>Boom running is a lumberjack sport that involves crossing a river on a
-bobbing line of logs. It's a lot like riding singletrack, in fact ---
+bobbing line of logs. It's a lot like riding singletrack, in fact —
 you'd better keep your balance, or else.</p>
 <figure class="story-image"><div class="image-content"><img src="https://midwestweekends.com/media/images/h/a/hayward_birkie_bikers.jpg" alt="Mountain biking on the Birkie Trail." /><p class="copyright">&copy; Beth Gauper</p><figcaption class="figure-caption">
 The Birkebeiner Trail crosses many of the CAMBA trails, giving mountain
@@ -217,8 +217,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

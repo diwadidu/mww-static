@@ -21,8 +21,8 @@ Near Cable, Garmisch USA overlooks Namekagon Lake.
 </figcaption></div></figure>
 <p>In the north woods, only the passage of time creates a classic.</p>
 <p>There's nothing like the feel of a vintage lodge. Whatever it comes
-from --- the burnished logs hewed by ax, the hearths made of stones
-picked from local fields, the faint fragrance of aged pine and cedar ---
+from — the burnished logs hewed by ax, the hearths made of stones
+picked from local fields, the faint fragrance of aged pine and cedar —
 it can't be ordered from the local furniture store.</p>
 <p>Once, the north woods of Wisconsin were full of lodges. The first were
 built as fishing camps, after loggers left in the 1890s, and guests were
@@ -44,7 +44,7 @@ golden era.</p>
 <h3>Trip Tips: Classic Wisconsin lodges</h3>
 <p><strong><a href="http://www.garmischresort.com/">Garmisch USA</a> near Cable, Wis.</strong> :
 This 1927 resort in northwest Wisconsin
-is only eight miles down the road from Telemark Resort --- also inspired
+is only eight miles down the road from Telemark Resort — also inspired
 by the village of Garmisch in the Bavarian Alps, where its founder, the
 late Tony Wise, was stationed as a GI in postwar Germany.</p>
 <p>The Germanic romanticism of Garmisch USA, however, is borrowed not from
@@ -90,7 +90,7 @@ a giant stag head.</p>
 <p><strong><a href="http://www.vossbl.com/">Voss' Birchwood Lodge</a> in Manitowish Waters</strong> :
 This gracious resort on a bay of Spider
 Lake figured heavily in the 1934 shootout at nearby Little Bohemia
-Lodge, where John Dillinger was staying --- its owners, Henry and Ruth
+Lodge, where John Dillinger was staying — its owners, Henry and Ruth
 Voss, called the FBI on him, and the agents staged their raid there.</p>
 <figure class="story-image"><div class="image-content"><img src="https://midwestweekends.com/media/images/m/a/manitowish_voss_sign.jpg" alt="Voss' Birchwood Lodge in Manitowish Waters." /><p class="copyright">&copy; Beth Gauper</p><figcaption class="figure-caption">
 At Voss' Birchwood Lodge, a vintage sign readers, "Think the world is
@@ -161,8 +161,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

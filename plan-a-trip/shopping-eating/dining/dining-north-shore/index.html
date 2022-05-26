@@ -25,7 +25,7 @@ utilitarian. A meal often came with a view, but most of the menus had
 the same fish, steak, chops and burgers you could get anywhere.</p>
 <p>Things have changed. One Memorial Day weekend, my husband and I ate at
 three of my favorite places and two newer ones, one of which definitely
-was worth a detour. A three-star culinary weekend on the North Shore ---
+was worth a detour. A three-star culinary weekend on the North Shore —
 who knew?</p>
 <p>On old Highway 61 between Duluth and Two Harbors, the cheery <a href="http://www.sceniccafe.com">New Scenic
 Cafe</a> is a fixture of fine dining. I had my
@@ -91,8 +91,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>

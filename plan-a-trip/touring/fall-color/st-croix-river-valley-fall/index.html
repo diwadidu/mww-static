@@ -22,9 +22,9 @@ From Stillwater's Pioneer Park, there's a view of St. Croix Valley.
 <p>On a lovely day in fall, few places show off this region better than the
 St. Croix River Valley between Minnesota and Wisconsin.</p>
 <p>The 52-mile stretch from Taylors Falls to the St. Croix's confluence
-with the Mississippi at Prescott has everything a tourist could want ---
+with the Mississippi at Prescott has everything a tourist could want —
 shops, historic houses, theaters, train excursions, boat cruises.</p>
-<p>But mostly, it has scenery --- scenery I wanted to show my nieces Alissa
+<p>But mostly, it has scenery — scenery I wanted to show my nieces Alissa
 and Livia, who had left Florida to start careers in the Twin Cities. As
 it turns out, the St. Croix in autumn looks awfully good to people
 raised in Florida.</p>
@@ -45,7 +45,7 @@ the river valley and the 1931 lift bridge.</p>
 Marine on St. Croix, where we took a short hike along the riverfront
 trail at William O'Brien State Park.</p>
 <p>Just west of Taylors Falls, we explored Franconia Sculpture Park, and
-there was no such thing as a quick look --- the park was packed with
+there was no such thing as a quick look — the park was packed with
 sculptures, and each led irresistibly to another. We had almost as much
 fun as the children who were tearing around the place.</p>
 <p>&quot;Look at this, it's a huge playground for us!&quot; said one little girl,
@@ -64,7 +64,7 @@ Parlor, a father was descending to the bottom of the 35-foot Bake Oven
 with his toddler, who was murmuring &quot;scary, scary, scary&quot; to himself.</p>
 <p>Rock climbers had affixed nylon ropes to every possible cliff, and
 couples sat arm-in-arm on perches around Angle Rock, where the world's
-largest logjam ---  enough logs to build 20,000 three-bedroom houses ---
+largest logjam — enough logs to build 20,000 three-bedroom houses —
 stopped river traffic for six weeks in 1886.</p>
 <p>By then, Livi and Alissa were learning quite a bit about logging, which
 made the St. Croix Valley boom in the 1850s. Before we left, I drove
@@ -85,7 +85,7 @@ attraction since the 1880s, then drove down the Wisconsin side of the
 St. Croix to Hudson.</p>
 <p>Since the turn of the century, Minnesotans have made Hudson a party
 town, crossing the border to enjoy various pleasures forbidden at home
---- prizefighting, gambling, fireworks, drinking.</p>
+— prizefighting, gambling, fireworks, drinking.</p>
 <p>Today, however, the saloons in the brick storefronts on Second Street
 are being crowded out by new restaurants, espresso cafes and
 home-accessories shops.</p>
@@ -199,8 +199,7 @@ const dateline = document.createElement('p');
 dateline.textContent = `Last update: ${formatDate(lastUpdate)}`;
 dateline.setAttribute('class', 'story-dateline');
 Array.from(document.getElementById('story').children)
-  .filter(x => x.tagName.toLowerCase() == 'h2')
-  .shift()
+  .pop()
   .after(dateline)
 Array.from(document.getElementsByClassName('last-updated'))
   .forEach(x => x.remove())</script></html>
