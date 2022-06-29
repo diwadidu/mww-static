@@ -4,7 +4,7 @@
   <subtitle>... because life&#39;s too short to stay home</subtitle>
   <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
   <link href="https://midwestweekends.com/"/>
-  <updated>2022-05-26T00:00:00.000Z</updated>
+  <updated>2022-06-29T00:00:00.000Z</updated>
   <id>https://midwestweekends.com/</id>
   <author>
     <name>Beth Gauper</name>
@@ -12,10 +12,98 @@
   </author>
   
   <entry>
+    <title>Destination: Stockholm</title>
+    <link href="https://midwestweekends.com/plan-a-trip/history-heritage/heritage-travel/stockholm-lake-pepin/"/>
+    <updated>2022-06-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/history-heritage/heritage-travel/stockholm-lake-pepin/</id>
+    <content type="html">Once the promised land, this Lake Pepin village now is a favorite day trip.</content>
+  </entry>
+  
+  <entry>
     <title>America&#39;s freshwater Riviera</title>
     <link href="https://midwestweekends.com/plan-a-trip/nature/beaches/beaches-lake-michigan/"/>
-    <updated>2022-05-25T22:00:00.000Z</updated>
+    <updated>2022-06-28T05:00:00.000Z</updated>
     <id>https://midwestweekends.com/plan-a-trip/nature/beaches/beaches-lake-michigan/</id>
     <content type="html">On the gorgeous beaches of Wisconsin, Michigan, Indiana and Illinois, everyone can find a spot in the sun.</content>
+  </entry>
+  
+  <entry>
+    <title>Grand sand</title>
+    <link href="https://midwestweekends.com/plan-a-trip/nature/beaches/sleeping-bear-dunes/"/>
+    <updated>2022-06-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/nature/beaches/sleeping-bear-dunes/</id>
+    <content type="html">Along Lake Michigan, the Sleeping Bear Dunes are a giant playground for families.</content>
+  </entry>
+  
+  <entry>
+    <title>All eyes on Wabasha</title>
+    <link href="https://midwestweekends.com/plan-a-trip/nature/birds-wildlife/eagles-wabasha/"/>
+    <updated>2022-06-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/nature/birds-wildlife/eagles-wabasha/</id>
+    <content type="html">Eagles are drawn to this Mississippi River town, along with flocks of binocular-toting visitors.</content>
+  </entry>
+  
+  <entry>
+    <title>A slice of cheese country</title>
+    <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/badger-trail-wisconsin/"/>
+    <updated>2022-06-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/badger-trail-wisconsin/</id>
+    <content type="html">On Wisconsin&#39;s Badger State Trail, bicyclists bite off as much as they can chew.</content>
+  </entry>
+  
+  <entry>
+    <title>Cycling in coulee country</title>
+    <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/elroy-sparta-bicycle-trail/"/>
+    <updated>2022-06-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/elroy-sparta-bicycle-trail/</id>
+    <content type="html">The famous Elroy-Sparta is just one of the trails in a picturesque pocket of Wisconsin.</content>
+  </entry>
+  
+  <entry>
+    <title>Hiking in Duluth</title>
+    <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/hiking/superior-hiking-trail-duluth/"/>
+    <updated>2022-06-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/hiking/superior-hiking-trail-duluth/</id>
+    <content type="html">The city sections of the Superior Hiking Trail are easy to reach and amazingly scenic.</content>
+  </entry>
+  
+  <entry>
+    <title>Summer in the Brainerd Lakes</title>
+    <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/lake-towns/brainerd-minnesota-summer/"/>
+    <updated>2022-06-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/lake-towns/brainerd-minnesota-summer/</id>
+    <content type="html">Away from the crowds, Minnesota&#39;s busiest vacation area can be tranquil.</content>
+  </entry>
+  
+  <entry>
+    <title>Dreaming of Ely</title>
+    <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/outdoors-towns/best-ely-minnesota-summer/"/>
+    <updated>2022-06-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/outdoors-towns/best-ely-minnesota-summer/</id>
+    <content type="html">The wilderness around this north-woods town exerts a magnetic pull on city folk.</content>
+  </entry>
+  
+  <entry>
+    <title>Discovering Two Harbors</title>
+    <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/outdoors-towns/visiting-two-harbors-minnesota/"/>
+    <updated>2022-06-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/outdoors-towns/visiting-two-harbors-minnesota/</id>
+    <content type="html">This Lake Superior port town on Minnesota&#39;s North Shore is all about  trains, boats and automobiles.</content>
+  </entry>
+  
+  <entry>
+    <title>Winter in Ely</title>
+    <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/winter-play/ely-minnesota-winter/"/>
+    <updated>2022-06-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/winter-play/ely-minnesota-winter/</id>
+    <content type="html">At the edge of the northern Minnesota wilderness, fun starts when the snow falls.</content>
+  </entry>
+  
+  <entry>
+    <title>Where to eat in Duluth</title>
+    <link href="https://midwestweekends.com/plan-a-trip/shopping-eating/dining/best-restaurants-duluth/"/>
+    <updated>2022-06-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/shopping-eating/dining/best-restaurants-duluth/</id>
+    <content type="html">Once famous for dives, this Lake Superior tourist magnet now boasts brewpubs and locavore cafes.</content>
   </entry>
 </feed>
