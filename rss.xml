@@ -6,8 +6,16 @@
     <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
     <link href="https://midwestweekends.com/"/>
     <copyright>Beth Gauper, All rights reserved</copyright>
-    <lastBuildDate>2022-06-29T00:00:00.000Z</lastBuildDate>
+    <lastBuildDate>2022-06-30T00:00:00.000Z</lastBuildDate>
     <ttl>1800</ttl>
+    
+    
+    <item>
+     <title>Packer country</title>
+     <description>Like Oz, Green Bay glows green and gold.</description>
+     <link>https://midwestweekends.com/plan-a-trip/family-friends/travel-with-kids/green-bay-kids/</link>
+     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
+    </item>
     
     
     <item>
@@ -35,9 +43,49 @@
     
     
     <item>
+     <title>15 great trails to ride in fall</title>
+     <description>Here&#39;s where to get your fill of flora, fauna and fall colors.</description>
+     <link>https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/best-bicycle-trails-fall/</link>
+     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Bash on a bike trail</title>
+     <description>Kick up your wheels at a small-town fall festival.</description>
+     <link>https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/fall-festivals-bike-trails/</link>
+     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
      <title>Lodgings in Minnesota state parks</title>
      <description>If you don&#39;t have a cabin of your own, Minnesota has one you can borrow.</description>
      <link>https://midwestweekends.com/plan-a-trip/stay/cabins-cottages/minnesota-state-park-cabins/</link>
+     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Great fall festivals</title>
+     <description>Here are the best autumn fests in Minnesota, Wisconsin, Iowa, northern Illinois and western Michigan.</description>
+     <link>https://midwestweekends.com/plan-a-trip/touring/fall-color/midwest-fall-festivals/</link>
+     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Great summer festivals</title>
+     <description>Here are the best of this summer&#39;s fests in Minnesota, Wisconsin, Iowa, northern Illinois and western Michigan.</description>
+     <link>https://midwestweekends.com/plan-a-trip/touring/festivals/midwest-summer-festivals/</link>
+     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Great spring festivals</title>
+     <description>Here&#39;s where you can celebrate spring with brews, birding and beautiful blooms.</description>
+     <link>https://midwestweekends.com/plan-a-trip/touring/festivals/spring-festivals-midwest/</link>
      <pubDate>2022-06-29T05:00:00.000Z</pubDate>
     </item>
     
@@ -55,54 +103,6 @@
      <description>At the end of the road, this quirky beach town is the eastern gateway to Pictured Rocks National Lakeshore.</description>
      <link>https://midwestweekends.com/plan-a-trip/touring/lake-superior/grand-marais-michigan/</link>
      <pubDate>2022-06-29T05:00:00.000Z</pubDate>
-    </item>
-    
-    
-    <item>
-     <title>Lake Superior&#39;s greatest hits</title>
-     <description>With this nine-day itinerary, take in the highlights of the magnificent Circle Tour.</description>
-     <link>https://midwestweekends.com/plan-a-trip/touring/lake-superior/lake-superior-circle-tour-highlights/</link>
-     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
-    </item>
-    
-    
-    <item>
-     <title>Graveyard of the Great Lakes</title>
-     <description>For 200 years, a bottleneck on the east end of Lake Superior has claimed ships and lives. </description>
-     <link>https://midwestweekends.com/plan-a-trip/touring/lake-superior/whitefish-point-shipwreck-coast/</link>
-     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
-    </item>
-    
-    
-    <item>
-     <title>Digging the Keweenaw</title>
-     <description>On Lake Superior, an isolated peninsula yields up all sorts of riches.</description>
-     <link>https://midwestweekends.com/plan-a-trip/touring/scenic-byways/keweenaw-peninsula-michigan/</link>
-     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
-    </item>
-    
-    
-    <item>
-     <title>Destination: Stockholm</title>
-     <description>Once the promised land, this Lake Pepin village now is a favorite day trip.</description>
-     <link>https://midwestweekends.com/plan-a-trip/history-heritage/heritage-travel/stockholm-lake-pepin/</link>
-     <pubDate>2022-06-28T05:00:00.000Z</pubDate>
-    </item>
-    
-    
-    <item>
-     <title>Grand sand</title>
-     <description>Along Lake Michigan, the Sleeping Bear Dunes are a giant playground for families.</description>
-     <link>https://midwestweekends.com/plan-a-trip/nature/beaches/sleeping-bear-dunes/</link>
-     <pubDate>2022-06-28T05:00:00.000Z</pubDate>
-    </item>
-    
-    
-    <item>
-     <title>America&#39;s freshwater Riviera</title>
-     <description>On the gorgeous beaches of Wisconsin, Michigan, Indiana and Illinois, everyone can find a spot in the sun.</description>
-     <link>https://midwestweekends.com/plan-a-trip/nature/beaches/beaches-lake-michigan/</link>
-     <pubDate>2022-06-28T05:00:00.000Z</pubDate>
     </item>
     
   </channel>
