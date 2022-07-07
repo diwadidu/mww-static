@@ -6,8 +6,64 @@
     <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
     <link href="https://midwestweekends.com/"/>
     <copyright>Beth Gauper, All rights reserved</copyright>
-    <lastBuildDate>2022-06-30T00:00:00.000Z</lastBuildDate>
+    <lastBuildDate>2022-07-07T00:00:00.000Z</lastBuildDate>
     <ttl>1800</ttl>
+    
+    
+    <item>
+     <title>Swimming in Superior</title>
+     <description>If you&#39;re lucky, you can take a refreshing dip in Lake Superior &amp;mdash; no wetsuit required.</description>
+     <link>https://midwestweekends.com/plan-a-trip/nature/beaches/swimming-holes-beaches-duluth-north-shore/</link>
+     <pubDate>2022-07-04T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Door County 101</title>
+     <description>Want to check out this popular peninsula? Here&#39;s everything you need to plan a visit.</description>
+     <link>https://midwestweekends.com/plan-a-trip/regions/door-county/best-door-county-vacation/</link>
+     <pubDate>2022-07-04T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Summer on stage</title>
+     <description>In vacation towns, lightweight plays offer a midsummer&#39;s-night diversion.</description>
+     <link>https://midwestweekends.com/plan-a-trip/arts-culture/theater-music/summer-theater-midwest/</link>
+     <pubDate>2022-06-30T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Swimming holes of Duluth</title>
+     <description>In this Lake Superior town, the rivers are the place to cool off.</description>
+     <link>https://midwestweekends.com/plan-a-trip/outdoors-recreation/water-sports/swimming-holes-duluth-rivers/</link>
+     <pubDate>2022-06-30T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Great fall festivals</title>
+     <description>Here are the best autumn fests in Minnesota, Wisconsin, Iowa, northern Illinois and western Michigan.</description>
+     <link>https://midwestweekends.com/plan-a-trip/touring/fall-color/midwest-fall-festivals/</link>
+     <pubDate>2022-06-30T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>A feast of festivals</title>
+     <description>Here&#39;s an eater&#39;s guide to small-town fests, from strawberries to sauerkraut and kolacky to sweet corn.</description>
+     <link>https://midwestweekends.com/plan-a-trip/touring/festivals/food-festivals-midwest/</link>
+     <pubDate>2022-06-30T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Afloat in Winona</title>
+     <description>Beneath the surface, a town along the Mississippi River moves fast.</description>
+     <link>https://midwestweekends.com/plan-a-trip/touring/mississippi-river/winona-minnesota-fun/</link>
+     <pubDate>2022-06-30T05:00:00.000Z</pubDate>
+    </item>
     
     
     <item>
@@ -46,62 +102,6 @@
      <title>15 great trails to ride in fall</title>
      <description>Here&#39;s where to get your fill of flora, fauna and fall colors.</description>
      <link>https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/best-bicycle-trails-fall/</link>
-     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
-    </item>
-    
-    
-    <item>
-     <title>Bash on a bike trail</title>
-     <description>Kick up your wheels at a small-town fall festival.</description>
-     <link>https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/fall-festivals-bike-trails/</link>
-     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
-    </item>
-    
-    
-    <item>
-     <title>Lodgings in Minnesota state parks</title>
-     <description>If you don&#39;t have a cabin of your own, Minnesota has one you can borrow.</description>
-     <link>https://midwestweekends.com/plan-a-trip/stay/cabins-cottages/minnesota-state-park-cabins/</link>
-     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
-    </item>
-    
-    
-    <item>
-     <title>Great fall festivals</title>
-     <description>Here are the best autumn fests in Minnesota, Wisconsin, Iowa, northern Illinois and western Michigan.</description>
-     <link>https://midwestweekends.com/plan-a-trip/touring/fall-color/midwest-fall-festivals/</link>
-     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
-    </item>
-    
-    
-    <item>
-     <title>Great summer festivals</title>
-     <description>Here are the best of this summer&#39;s fests in Minnesota, Wisconsin, Iowa, northern Illinois and western Michigan.</description>
-     <link>https://midwestweekends.com/plan-a-trip/touring/festivals/midwest-summer-festivals/</link>
-     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
-    </item>
-    
-    
-    <item>
-     <title>Great spring festivals</title>
-     <description>Here&#39;s where you can celebrate spring with brews, birding and beautiful blooms.</description>
-     <link>https://midwestweekends.com/plan-a-trip/touring/festivals/spring-festivals-midwest/</link>
-     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
-    </item>
-    
-    
-    <item>
-     <title>Circling Lake Superior</title>
-     <description>A trip around the big lake provides everything a tourist&#39;s heart could desire.</description>
-     <link>https://midwestweekends.com/plan-a-trip/touring/lake-superior/circle-tour-lake-superior/</link>
-     <pubDate>2022-06-29T05:00:00.000Z</pubDate>
-    </item>
-    
-    
-    <item>
-     <title>Dunes of Grand Marais</title>
-     <description>At the end of the road, this quirky beach town is the eastern gateway to Pictured Rocks National Lakeshore.</description>
-     <link>https://midwestweekends.com/plan-a-trip/touring/lake-superior/grand-marais-michigan/</link>
      <pubDate>2022-06-29T05:00:00.000Z</pubDate>
     </item>
     
