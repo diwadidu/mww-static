@@ -4,7 +4,7 @@
   <subtitle>... because life&#39;s too short to stay home</subtitle>
   <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
   <link href="https://midwestweekends.com/"/>
-  <updated>2022-07-07T00:00:00.000Z</updated>
+  <updated>2022-07-08T00:00:00.000Z</updated>
   <id>https://midwestweekends.com/</id>
   <author>
     <name>Beth Gauper</name>
@@ -76,19 +76,11 @@
   </entry>
   
   <entry>
-    <title>A roof in the woods</title>
-    <link href="https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/camper-cabins-midwest/"/>
+    <title>Lighthouses of Door County</title>
+    <link href="https://midwestweekends.com/plan-a-trip/history-heritage/lighthouses/door-county-lighthouses/"/>
     <updated>2022-06-29T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/camper-cabins-midwest/</id>
-    <content type="html">In state and county parks and forests around the Upper Midwest, visitors love their camper cabins.</content>
-  </entry>
-  
-  <entry>
-    <title>The people&#39;s park</title>
-    <link href="https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/itasca-park-tips/"/>
-    <updated>2022-06-29T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/itasca-park-tips/</id>
-    <content type="html">For generations, Itasca has been a sacred spot to Minnesotans.</content>
+    <id>https://midwestweekends.com/plan-a-trip/history-heritage/lighthouses/door-county-lighthouses/</id>
+    <content type="html">On this Lake Michigan peninsula, beacons are reminders of a more rugged past.</content>
   </entry>
   
   <entry>
@@ -100,10 +92,18 @@
   </entry>
   
   <entry>
-    <title>Lighthouses of Door County</title>
-    <link href="https://midwestweekends.com/plan-a-trip/history-heritage/lighthouses/door-county-lighthouses/"/>
+    <title>15 great trails to ride in fall</title>
+    <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/best-bicycle-trails-fall/"/>
     <updated>2022-06-29T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/history-heritage/lighthouses/door-county-lighthouses/</id>
-    <content type="html">On this Lake Michigan peninsula, beacons are reminders of a more rugged past.</content>
+    <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/best-bicycle-trails-fall/</id>
+    <content type="html">Here&#39;s where to get your fill of flora, fauna and fall colors.</content>
+  </entry>
+  
+  <entry>
+    <title>Bash on a bike trail</title>
+    <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/fall-festivals-bike-trails/"/>
+    <updated>2022-06-29T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/fall-festivals-bike-trails/</id>
+    <content type="html">Kick up your wheels at a small-town fall festival.</content>
   </entry>
 </feed>
