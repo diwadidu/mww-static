@@ -6,15 +6,63 @@
     <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
     <link href="https://midwestweekends.com/"/>
     <copyright>Beth Gauper, All rights reserved</copyright>
-    <lastBuildDate>2022-07-23T00:00:00.000Z</lastBuildDate>
+    <lastBuildDate>2022-07-26T00:00:00.000Z</lastBuildDate>
     <ttl>1800</ttl>
     
     
     <item>
-     <title>Door County 101</title>
-     <description>Want to check out this popular peninsula? Here&#39;s everything you need to plan a visit.</description>
-     <link>https://midwestweekends.com/plan-a-trip/regions/door-county/best-door-county-vacation/</link>
-     <pubDate>2022-07-08T22:00:00.000Z</pubDate>
+     <title>15 great places for kids in Minnesota</title>
+     <description>There&#39;s a world of adventure awaiting families in the Land of Lakes.</description>
+     <link>https://midwestweekends.com/plan-a-trip/family-friends/travel-with-kids/best-vacations-with-kids-minnesota/</link>
+     <pubDate>2022-07-26T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>15 great places for kids in Wisconsin</title>
+     <description>From farm to city to beach, the state is one big playground for children.</description>
+     <link>https://midwestweekends.com/plan-a-trip/family-friends/travel-with-kids/kids-in-wisconsin/</link>
+     <pubDate>2022-07-26T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Chicago by bicycle</title>
+     <description>On a bike, visitors can explore every inch of Chicago&#39;s gorgeous lakefront.</description>
+     <link>https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/bicycling-Chicago-Lakefront-Trail/</link>
+     <pubDate>2022-07-26T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Bicycling in Wisconsin</title>
+     <description>The state that pioneered rail trails isn&#39;t resting on its laurels.</description>
+     <link>https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/wisconsin-bike-trails/</link>
+     <pubDate>2022-07-26T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Walking in Duluth</title>
+     <description>Trails along creeks, ravines and bays provide stellar hiking in the heart of town.</description>
+     <link>https://midwestweekends.com/plan-a-trip/outdoors-recreation/hiking/duluth-walks/</link>
+     <pubDate>2022-07-26T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>15 great rivers for paddling</title>
+     <description>On a fine day, go sightseeing in a canoe or kayak.</description>
+     <link>https://midwestweekends.com/plan-a-trip/outdoors-recreation/paddling/great-canoeing-rivers/</link>
+     <pubDate>2022-07-26T05:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Cheat the heat</title>
+     <description>When summer in the Upper Midwest becomes a sauna, it&#39;s time to chill out.</description>
+     <link>https://midwestweekends.com/plan-a-trip/outdoors-recreation/water-sports/cooling-off-summer/</link>
+     <pubDate>2022-07-26T05:00:00.000Z</pubDate>
     </item>
     
   </channel>
