@@ -4,12 +4,76 @@
   <subtitle>... because life&#39;s too short to stay home</subtitle>
   <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
   <link href="https://midwestweekends.com/"/>
-  <updated>2022-07-27T00:00:00.000Z</updated>
+  <updated>2022-07-28T00:00:00.000Z</updated>
   <id>https://midwestweekends.com/</id>
   <author>
     <name>Beth Gauper</name>
     <email></email>
   </author>
+  
+  <entry>
+    <title>10 great day trips from the Twin Cities</title>
+    <link href="https://midwestweekends.com/plan-a-trip/best-trips/day-trips/best-day-trips-twin-cities/"/>
+    <updated>2022-07-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/best-trips/day-trips/best-day-trips-twin-cities/</id>
+    <content type="html">Within an hour&#39;s drive, you can cruise Lake Minnetonka, stroll on the St. Croix or climb a historic bluff.</content>
+  </entry>
+  
+  <entry>
+    <title>10 great day trips from Madison</title>
+    <link href="https://midwestweekends.com/plan-a-trip/best-trips/day-trips/day-trips-madison/"/>
+    <updated>2022-07-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/best-trips/day-trips/day-trips-madison/</id>
+    <content type="html">See the circus, visit Swiss towns or ride a rail trail: There&#39;s fun in every direction.</content>
+  </entry>
+  
+  <entry>
+    <title>10 great day trips around Milwaukee</title>
+    <link href="https://midwestweekends.com/plan-a-trip/best-trips/day-trips/day-trips-milwaukee/"/>
+    <updated>2022-07-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/best-trips/day-trips/day-trips-milwaukee/</id>
+    <content type="html">Ride trolleys, see lighthouses, spot birds and hike past mansions. </content>
+  </entry>
+  
+  <entry>
+    <title>Following the tall ships</title>
+    <link href="https://midwestweekends.com/plan-a-trip/history-heritage/frontier-history/tall-ships-festivals/"/>
+    <updated>2022-07-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/history-heritage/frontier-history/tall-ships-festivals/</id>
+    <content type="html">Sloops and schooners still sail on Lake Michigan and Lake Superior.</content>
+  </entry>
+  
+  <entry>
+    <title>Free days in Minnesota and Michigan state parks</title>
+    <link href="https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/free-weekend-minnesota-state-parks/"/>
+    <updated>2022-07-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/free-weekend-minnesota-state-parks/</id>
+    <content type="html">On the second weekend of June, everyone is invited for a day of fishing, hiking and trail riding.</content>
+  </entry>
+  
+  <entry>
+    <title>Free time in state parks</title>
+    <link href="https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/wisconsin-minnesota-free-weekend/"/>
+    <updated>2022-07-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/wisconsin-minnesota-free-weekend/</id>
+    <content type="html">On the first two weekends of June, try a new park, trail or fishing hole for free.</content>
+  </entry>
+  
+  <entry>
+    <title>10 great places to ride &#39;n&#39; glide</title>
+    <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/bicycling-paddling-rail-trails/"/>
+    <updated>2022-07-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/bicycling-paddling-rail-trails/</id>
+    <content type="html">Traveling by both bike and boat, a river trip is twice the fun.</content>
+  </entry>
+  
+  <entry>
+    <title>Living like a millionaire</title>
+    <link href="https://midwestweekends.com/plan-a-trip/stay/bed-breakfast/duluth-inns/"/>
+    <updated>2022-07-28T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/stay/bed-breakfast/duluth-inns/</id>
+    <content type="html">As guests, visitors get a look into Duluth&#39;s gilded past.</content>
+  </entry>
   
   <entry>
     <title>Cheap fall getaways</title>
@@ -28,14 +92,6 @@
   </entry>
   
   <entry>
-    <title>Cheap summer getaways in Minnesota</title>
-    <link href="https://midwestweekends.com/plan-a-trip/best-trips/cheap-trips/cheap-trips-minnesota-summer/"/>
-    <updated>2022-07-27T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/best-trips/cheap-trips/cheap-trips-minnesota-summer/</id>
-    <content type="html">No money, no problem: Here are 20 great vacations that are easy on the wallet.</content>
-  </entry>
-  
-  <entry>
     <title>Cheap summer getaways in Wisconsin</title>
     <link href="https://midwestweekends.com/plan-a-trip/best-trips/cheap-trips/cheap-trips-wisconsin-summer/"/>
     <updated>2022-07-27T05:00:00.000Z</updated>
@@ -44,66 +100,10 @@
   </entry>
   
   <entry>
-    <title>Michigan&#39;s Pictured Rocks</title>
-    <link href="https://midwestweekends.com/plan-a-trip/nature/national-parks-wilderness/michigan-pictured-rocks-national-lakeshore/"/>
+    <title>Cheap summer getaways in Minnesota</title>
+    <link href="https://midwestweekends.com/plan-a-trip/best-trips/cheap-trips/cheap-trips-minnesota-summer/"/>
     <updated>2022-07-27T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/nature/national-parks-wilderness/michigan-pictured-rocks-national-lakeshore/</id>
-    <content type="html">There&#39;s a lot of scenery crammed into one stretch of Lake Superior in Michigan&#39;s Upper Peninsula.</content>
-  </entry>
-  
-  <entry>
-    <title>Afoot in the Porkies</title>
-    <link href="https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/porcupines-wilderness-park/"/>
-    <updated>2022-07-27T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/porcupines-wilderness-park/</id>
-    <content type="html">On the Upper Peninsula, a splendid wilderness remains unchanged in the Porkies.</content>
-  </entry>
-  
-  <entry>
-    <title>White gold in the Porkies</title>
-    <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/snowshoeing/snowshoeing-skiing-porcupines-michigan/"/>
-    <updated>2022-07-27T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/snowshoeing/snowshoeing-skiing-porcupines-michigan/</id>
-    <content type="html">In Michigan&#39;s Upper Peninsula, a wilderness park rewards those who love snow.</content>
-  </entry>
-  
-  <entry>
-    <title>Michigan&#39;s great lake cabins</title>
-    <link href="https://midwestweekends.com/plan-a-trip/stay/cabins-cottages/michigan-state-park-cabins/"/>
-    <updated>2022-07-27T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/stay/cabins-cottages/michigan-state-park-cabins/</id>
-    <content type="html">In the only state that borders three Great Lakes, the best places to stay are in state parks.</content>
-  </entry>
-  
-  <entry>
-    <title>A yen for yurts</title>
-    <link href="https://midwestweekends.com/plan-a-trip/stay/camping/yurts-minnesota-michigan-iowa/"/>
-    <updated>2022-07-27T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/stay/camping/yurts-minnesota-michigan-iowa/</id>
-    <content type="html">Round canvas huts have come to the Midwest from Mongolia, with love.</content>
-  </entry>
-  
-  <entry>
-    <title>A feast of festivals</title>
-    <link href="https://midwestweekends.com/plan-a-trip/touring/festivals/food-festivals-midwest/"/>
-    <updated>2022-07-27T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/touring/festivals/food-festivals-midwest/</id>
-    <content type="html">Here&#39;s an eater&#39;s guide to small-town fests, from strawberries to sauerkraut and kolacky to sweet corn.</content>
-  </entry>
-  
-  <entry>
-    <title>Circling Lake Michigan</title>
-    <link href="https://midwestweekends.com/plan-a-trip/touring/lake-michigan/lake-michigan-circle-tour/"/>
-    <updated>2022-07-27T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/touring/lake-michigan/lake-michigan-circle-tour/</id>
-    <content type="html">On a drive around this inland sea, you&#39;ll find vineyards, lighthouses, a famous island and fabulous beaches.</content>
-  </entry>
-  
-  <entry>
-    <title>Duluth 101</title>
-    <link href="https://midwestweekends.com/plan-a-trip/touring/lake-superior/best-duluth-minnesota/"/>
-    <updated>2022-07-27T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/touring/lake-superior/best-duluth-minnesota/</id>
-    <content type="html">Here&#39;s everything you need to know about visiting this lively port town on Lake Superior.</content>
+    <id>https://midwestweekends.com/plan-a-trip/best-trips/cheap-trips/cheap-trips-minnesota-summer/</id>
+    <content type="html">No money, no problem: Here are 20 great vacations that are easy on the wallet.</content>
   </entry>
 </feed>
