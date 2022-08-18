@@ -4,12 +4,36 @@
   <subtitle>... because life&#39;s too short to stay home</subtitle>
   <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
   <link href="https://midwestweekends.com/"/>
-  <updated>2022-08-12T00:00:00.000Z</updated>
+  <updated>2022-08-18T00:00:00.000Z</updated>
   <id>https://midwestweekends.com/</id>
   <author>
     <name>Beth Gauper</name>
     <email></email>
   </author>
+  
+  <entry>
+    <title>Cheap fall getaways</title>
+    <link href="https://midwestweekends.com/plan-a-trip/best-trips/cheap-trips/cheap-fall-trips/"/>
+    <updated>2022-08-18T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/best-trips/cheap-trips/cheap-fall-trips/</id>
+    <content type="html">Here are 20 places to enjoy autumn colors without going into the red.</content>
+  </entry>
+  
+  <entry>
+    <title>Copper Harbor refuge</title>
+    <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/outdoors-towns/copper-harbor-michigan/"/>
+    <updated>2022-08-18T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/outdoors-towns/copper-harbor-michigan/</id>
+    <content type="html">Early fortune-seekers left their mark on a village at the tip of Michigan&#39;s Keweenaw Peninsula.</content>
+  </entry>
+  
+  <entry>
+    <title>Lake Superior&#39;s greatest hits</title>
+    <link href="https://midwestweekends.com/plan-a-trip/touring/lake-superior/lake-superior-circle-tour-highlights/"/>
+    <updated>2022-08-18T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/touring/lake-superior/lake-superior-circle-tour-highlights/</id>
+    <content type="html">With this nine-day itinerary, take in the highlights of the magnificent Circle Tour.</content>
+  </entry>
   
   <entry>
     <title>The Lighthouse Express</title>
@@ -28,6 +52,14 @@
   </entry>
   
   <entry>
+    <title>A roof in the woods</title>
+    <link href="https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/camper-cabins-midwest/"/>
+    <updated>2022-08-12T05:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/camper-cabins-midwest/</id>
+    <content type="html">In state and county parks and forests around the Upper Midwest, visitors love their camper cabins.</content>
+  </entry>
+  
+  <entry>
     <title>Dreaming of Ely</title>
     <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/outdoors-towns/best-ely-minnesota-summer/"/>
     <updated>2022-08-12T05:00:00.000Z</updated>
@@ -41,14 +73,6 @@
     <updated>2022-08-12T05:00:00.000Z</updated>
     <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/outdoors-towns/gunflint-trail/</id>
     <content type="html">For outdoorsy folks, this wilderness in northeast Minnesota is a year-round playground.</content>
-  </entry>
-  
-  <entry>
-    <title>A roof in the woods</title>
-    <link href="https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/camper-cabins-midwest/"/>
-    <updated>2022-08-12T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/nature/parks-natural-areas/camper-cabins-midwest/</id>
-    <content type="html">In state and county parks and forests around the Upper Midwest, visitors love their camper cabins.</content>
   </entry>
   
   <entry>
@@ -81,29 +105,5 @@
     <updated>2022-08-12T05:00:00.000Z</updated>
     <id>https://midwestweekends.com/plan-a-trip/touring/fall-color/best-ways-see-fall-colors/</id>
     <content type="html">When the trees put on a show, get a front-row seat that can&#39;t be beat.</content>
-  </entry>
-  
-  <entry>
-    <title>Autumn in the Brainerd Lakes</title>
-    <link href="https://midwestweekends.com/plan-a-trip/touring/fall-color/brainerd-lakes-Minnesota-fall/"/>
-    <updated>2022-08-12T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/touring/fall-color/brainerd-lakes-Minnesota-fall/</id>
-    <content type="html">In fall, this lake-resort area is a hideaway in plain sight.</content>
-  </entry>
-  
-  <entry>
-    <title>Fall in Door County</title>
-    <link href="https://midwestweekends.com/plan-a-trip/touring/fall-color/door-county-fall/"/>
-    <updated>2022-08-12T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/touring/fall-color/door-county-fall/</id>
-    <content type="html">On this peninsula in Lake Michigan, autumn colors gild a much-loved landscape.</content>
-  </entry>
-  
-  <entry>
-    <title>15 great fall views</title>
-    <link href="https://midwestweekends.com/plan-a-trip/touring/fall-color/fall-views-midwest/"/>
-    <updated>2022-08-12T05:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/touring/fall-color/fall-views-midwest/</id>
-    <content type="html">From these easy-to-reach overlooks, see rolling waves of color light up the landscape.</content>
   </entry>
 </feed>
