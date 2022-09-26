@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>MidwestWeekends - Travel in Minnesota, Wisconsin, Illinois, Iowa</title>
+    <description>Up-to-date information on travel in the Upper Midwest</description>
+    <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
+    <link href="https://midwestweekends.com/"/>
+    <copyright>Beth Gauper, All rights reserved</copyright>
+    <lastBuildDate>2022-09-26T00:00:00.000Z</lastBuildDate>
+    <ttl>1800</ttl>
+    
+    
+    <item>
+     <title>Party in Milwaukee</title>
+     <description>Summer is one long festival in this easygoing city on Lake Michigan.</description>
+     <link>https://midwestweekends.com/plan-a-trip/arts-culture/city-weekends/summer-milwaukee/</link>
+     <pubDate>2022-09-25T22:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Best of fall</title>
+     <description>The chase is on as autumn colors coat the countryside.</description>
+     <link>https://midwestweekends.com/plan-a-trip/best-trips/favorite-places/best-places-fall/</link>
+     <pubDate>2022-09-25T22:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Following the tall ships</title>
+     <description>Sloops and schooners still sail on Lake Michigan and Lake Superior.</description>
+     <link>https://midwestweekends.com/plan-a-trip/history-heritage/frontier-history/tall-ships-festivals/</link>
+     <pubDate>2022-09-25T22:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Greatest hits of the Ice Age</title>
+     <description>In Wisconsin, the best walking trails are gifts from the glaciers.</description>
+     <link>https://midwestweekends.com/plan-a-trip/outdoors-recreation/hiking/best-hikes-ice-age-trail/</link>
+     <pubDate>2022-09-25T22:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Autumn in the studios</title>
+     <description>On fall art tours, treasure hunters strike gold.</description>
+     <link>https://midwestweekends.com/plan-a-trip/shopping-eating/art-fairs/midwest-fall-art-tours/</link>
+     <pubDate>2022-09-25T22:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Pursuing the hues</title>
+     <description>With luck, leaf peepers in the Upper Midwest can squeeze seven weeks of color out of fall.</description>
+     <link>https://midwestweekends.com/plan-a-trip/touring/fall-color/finding-fall-colors/</link>
+     <pubDate>2022-09-25T22:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>15 great fall drives</title>
+     <description>Here are 15 great places to chase the colors through glorious autumn landscapes.</description>
+     <link>https://midwestweekends.com/plan-a-trip/touring/fall-color/midwest-fall-drives/</link>
+     <pubDate>2022-09-25T22:00:00.000Z</pubDate>
+    </item>
+    
+    
+    <item>
+     <title>Great grape stomps</title>
+     <description>At winery harvest festivals, compete with your feet.</description>
+     <link>https://midwestweekends.com/plan-a-trip/shopping-eating/breweries-vineyards/grape-stomps/</link>
+     <pubDate>2022-09-16T22:00:00.000Z</pubDate>
+    </item>
+    
+  </channel>
+</rss>
