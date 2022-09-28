@@ -4,12 +4,44 @@
   <subtitle>... because life&#39;s too short to stay home</subtitle>
   <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
   <link href="https://midwestweekends.com/"/>
-  <updated>2022-09-26T00:00:00.000Z</updated>
+  <updated>2022-09-28T00:00:00.000Z</updated>
   <id>https://midwestweekends.com/</id>
   <author>
     <name>Beth Gauper</name>
     <email></email>
   </author>
+  
+  <entry>
+    <title>Hiking Minnesota&#39;s North Shore</title>
+    <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/hiking/hiking-north-shore/"/>
+    <updated>2022-09-27T22:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/hiking/hiking-north-shore/</id>
+    <content type="html">For most, a day hike is the preferred way to soak up the scenery.</content>
+  </entry>
+  
+  <entry>
+    <title>Hiking in Duluth</title>
+    <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/hiking/superior-hiking-trail-duluth/"/>
+    <updated>2022-09-27T22:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/hiking/superior-hiking-trail-duluth/</id>
+    <content type="html">The city sections of the Superior Hiking Trail are easy to reach and amazingly scenic.</content>
+  </entry>
+  
+  <entry>
+    <title>Duluth 101</title>
+    <link href="https://midwestweekends.com/plan-a-trip/touring/lake-superior/best-duluth-minnesota/"/>
+    <updated>2022-09-27T22:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/touring/lake-superior/best-duluth-minnesota/</id>
+    <content type="html">Here&#39;s everything you need to know about visiting this lively port town on Lake Superior.</content>
+  </entry>
+  
+  <entry>
+    <title>Colors of the North Shore</title>
+    <link href="https://midwestweekends.com/plan-a-trip/touring/fall-color/fall-colors-north-shore/"/>
+    <updated>2022-09-26T22:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/touring/fall-color/fall-colors-north-shore/</id>
+    <content type="html">In fall, crowds pursue the hues along the shore of Lake Superior.</content>
+  </entry>
   
   <entry>
     <title>Party in Milwaukee</title>
