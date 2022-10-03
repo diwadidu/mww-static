@@ -4,12 +4,20 @@
   <subtitle>... because life&#39;s too short to stay home</subtitle>
   <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
   <link href="https://midwestweekends.com/"/>
-  <updated>2022-09-28T00:00:00.000Z</updated>
+  <updated>2022-10-03T00:00:00.000Z</updated>
   <id>https://midwestweekends.com/</id>
   <author>
     <name>Beth Gauper</name>
     <email></email>
   </author>
+  
+  <entry>
+    <title>Door County 101</title>
+    <link href="https://midwestweekends.com/plan-a-trip/regions/door-county/best-door-county-vacation/"/>
+    <updated>2022-10-02T22:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/regions/door-county/best-door-county-vacation/</id>
+    <content type="html">Want to check out this popular peninsula? Here&#39;s everything you need to plan a visit.</content>
+  </entry>
   
   <entry>
     <title>Hiking Minnesota&#39;s North Shore</title>
@@ -97,13 +105,5 @@
     <updated>2022-09-25T22:00:00.000Z</updated>
     <id>https://midwestweekends.com/plan-a-trip/touring/fall-color/midwest-fall-drives/</id>
     <content type="html">Here are 15 great places to chase the colors through glorious autumn landscapes.</content>
-  </entry>
-  
-  <entry>
-    <title>Great grape stomps</title>
-    <link href="https://midwestweekends.com/plan-a-trip/shopping-eating/breweries-vineyards/grape-stomps/"/>
-    <updated>2022-09-16T22:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/shopping-eating/breweries-vineyards/grape-stomps/</id>
-    <content type="html">At winery harvest festivals, compete with your feet.</content>
   </entry>
 </feed>

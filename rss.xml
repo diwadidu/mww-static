@@ -6,8 +6,16 @@
     <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
     <link href="https://midwestweekends.com/"/>
     <copyright>Beth Gauper, All rights reserved</copyright>
-    <lastBuildDate>2022-09-28T00:00:00.000Z</lastBuildDate>
+    <lastBuildDate>2022-10-03T00:00:00.000Z</lastBuildDate>
     <ttl>1800</ttl>
+    
+    
+    <item>
+     <title>Door County 101</title>
+     <description>Want to check out this popular peninsula? Here&#39;s everything you need to plan a visit.</description>
+     <link>https://midwestweekends.com/plan-a-trip/regions/door-county/best-door-county-vacation/</link>
+     <pubDate>2022-10-02T22:00:00.000Z</pubDate>
+    </item>
     
     
     <item>
@@ -95,14 +103,6 @@
      <description>Here are 15 great places to chase the colors through glorious autumn landscapes.</description>
      <link>https://midwestweekends.com/plan-a-trip/touring/fall-color/midwest-fall-drives/</link>
      <pubDate>2022-09-25T22:00:00.000Z</pubDate>
-    </item>
-    
-    
-    <item>
-     <title>Great grape stomps</title>
-     <description>At winery harvest festivals, compete with your feet.</description>
-     <link>https://midwestweekends.com/plan-a-trip/shopping-eating/breweries-vineyards/grape-stomps/</link>
-     <pubDate>2022-09-16T22:00:00.000Z</pubDate>
     </item>
     
   </channel>
