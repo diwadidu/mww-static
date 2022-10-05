@@ -4,12 +4,36 @@
   <subtitle>... because life&#39;s too short to stay home</subtitle>
   <link href="https://midwestweekends.com.com/feed.xml" rel="self"/>
   <link href="https://midwestweekends.com/"/>
-  <updated>2022-10-04T00:00:00.000Z</updated>
+  <updated>2022-10-05T00:00:00.000Z</updated>
   <id>https://midwestweekends.com/</id>
   <author>
     <name>Beth Gauper</name>
     <email></email>
   </author>
+  
+  <entry>
+    <title>Pedaling for a pint</title>
+    <link href="https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/breweries-bike-trails/"/>
+    <updated>2022-10-04T22:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/bicycling/breweries-bike-trails/</id>
+    <content type="html">Thanks to a mutual attraction, craft breweries are popping up along bike trails everywhere.</content>
+  </entry>
+  
+  <entry>
+    <title>Excursion to Stillwater</title>
+    <link href="https://midwestweekends.com/plan-a-trip/regions/st-croix-valley/historic-stillwater-minnesota/"/>
+    <updated>2022-10-04T22:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/regions/st-croix-valley/historic-stillwater-minnesota/</id>
+    <content type="html">This historic Minnesota river town is a favorite weekend getaway.</content>
+  </entry>
+  
+  <entry>
+    <title>Halloween in Chicago</title>
+    <link href="https://midwestweekends.com/plan-a-trip/touring/halloween/chicago-halloween-festivals/"/>
+    <updated>2022-10-04T22:00:00.000Z</updated>
+    <id>https://midwestweekends.com/plan-a-trip/touring/halloween/chicago-halloween-festivals/</id>
+    <content type="html">During the scary season, this spirited city pulls out all the stops.</content>
+  </entry>
   
   <entry>
     <title>Door County 101</title>
@@ -81,29 +105,5 @@
     <updated>2022-09-25T22:00:00.000Z</updated>
     <id>https://midwestweekends.com/plan-a-trip/outdoors-recreation/hiking/best-hikes-ice-age-trail/</id>
     <content type="html">In Wisconsin, the best walking trails are gifts from the glaciers.</content>
-  </entry>
-  
-  <entry>
-    <title>Autumn in the studios</title>
-    <link href="https://midwestweekends.com/plan-a-trip/shopping-eating/art-fairs/midwest-fall-art-tours/"/>
-    <updated>2022-09-25T22:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/shopping-eating/art-fairs/midwest-fall-art-tours/</id>
-    <content type="html">On fall art tours, treasure hunters strike gold.</content>
-  </entry>
-  
-  <entry>
-    <title>Pursuing the hues</title>
-    <link href="https://midwestweekends.com/plan-a-trip/touring/fall-color/finding-fall-colors/"/>
-    <updated>2022-09-25T22:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/touring/fall-color/finding-fall-colors/</id>
-    <content type="html">With luck, leaf peepers in the Upper Midwest can squeeze seven weeks of color out of fall.</content>
-  </entry>
-  
-  <entry>
-    <title>15 great fall drives</title>
-    <link href="https://midwestweekends.com/plan-a-trip/touring/fall-color/midwest-fall-drives/"/>
-    <updated>2022-09-25T22:00:00.000Z</updated>
-    <id>https://midwestweekends.com/plan-a-trip/touring/fall-color/midwest-fall-drives/</id>
-    <content type="html">Here are 15 great places to chase the colors through glorious autumn landscapes.</content>
   </entry>
 </feed>
